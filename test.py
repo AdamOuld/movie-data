@@ -19,6 +19,14 @@ with open(filename) as fp:
 for movie in movieList:
     res = imdb.get_by_name(movie, tv=False)
     data = json.loads(res)
+    if not (data.get('review') is None):
+        del data['review']
+    if not (data.get('description') is None):
+        del data['description']
+    if not (data.get('actor') is None):
+        del data['actor']
+    if not (data.get('creator') is None):
+        del data['creator']
     jsonObj.append(data)
 
 
