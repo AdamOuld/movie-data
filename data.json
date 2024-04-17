@@ -15,14 +15,7 @@
             "Drama"
         ],
         "datePublished": "1994-10-14",
-        "keywords": "prison,based on the works of stephen king,escape from prison,friendship between men,wrongful conviction",
-        "duration": "PT2H22M",
-        "director": [
-            {
-                "name": "Frank Darabont",
-                "url": "https://www.imdb.com/name/nm0001104/"
-            }
-        ]
+        "duration": "PT2H22M"
     },
     {
         "type": "Movie",
@@ -41,14 +34,7 @@
             "Drama"
         ],
         "datePublished": "1972-03-24",
-        "keywords": "mafia,patriarch,crime family,organized crime,gangster",
-        "duration": "PT2H55M",
-        "director": [
-            {
-                "name": "Francis Ford Coppola",
-                "url": "https://www.imdb.com/name/nm0000338/"
-            }
-        ]
+        "duration": "PT2H55M"
     },
     {
         "type": "Movie",
@@ -67,14 +53,7 @@
             "Drama"
         ],
         "datePublished": "2023-10-27",
-        "keywords": "life,road to success,aspiration,civil service exam,upsc",
-        "duration": "PT2H27M",
-        "director": [
-            {
-                "name": "Vidhu Vinod Chopra",
-                "url": "https://www.imdb.com/name/nm0006765/"
-            }
-        ]
+        "duration": "PT2H27M"
     },
     {
         "type": "Movie",
@@ -94,14 +73,7 @@
             "Drama"
         ],
         "datePublished": "2024-03-01",
-        "keywords": "desert planet,second part,dune,desert,fight",
-        "duration": "PT2H46M",
-        "director": [
-            {
-                "name": "Denis Villeneuve",
-                "url": "https://www.imdb.com/name/nm0898288/"
-            }
-        ]
+        "duration": "PT2H46M"
     },
     {
         "type": "Movie",
@@ -122,14 +94,7 @@
             "Drama"
         ],
         "datePublished": "2008-07-18",
-        "keywords": "psychopath,moral dilemma,superhero,clown,criminal mastermind",
-        "duration": "PT2H32M",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT2H32M"
     },
     {
         "type": "Movie",
@@ -150,14 +115,7 @@
             "History"
         ],
         "datePublished": "1994-02-04",
-        "keywords": "holocaust,nazi,nazi concentration camp,jew,german",
-        "duration": "PT3H15M",
-        "director": [
-            {
-                "name": "Steven Spielberg",
-                "url": "https://www.imdb.com/name/nm0000229/"
-            }
-        ]
+        "duration": "PT3H15M"
     },
     {
         "type": "Movie",
@@ -176,32 +134,66 @@
             "Drama"
         ],
         "datePublished": "1957-04-10",
-        "keywords": "jury,dialogue driven,murder,justice,courtroom",
-        "duration": "PT1H36M",
-        "director": [
-            {
-                "name": "Sidney Lumet",
-                "url": "https://www.imdb.com/name/nm0001486/"
-            }
-        ]
+        "duration": "PT1H36M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "The Lord of the Rings: The Return of the King",
+        "url": "https://www.imdb.com/tt0167260/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "rating": {
+            "ratingCount": 1976491,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 9
+        },
+        "contentRating": "PG-13",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "datePublished": "2003-12-17",
+        "duration": "PT3H21M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "The Godfather Part II",
+        "url": "https://www.imdb.com/tt0071562/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 1362322,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 9
+        },
+        "contentRating": "R",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "datePublished": "1974-12-18",
+        "duration": "PT3H22M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Pulp Fiction",
+        "url": "https://www.imdb.com/tt0110912/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "rating": {
+            "ratingCount": 2216242,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.9
+        },
+        "contentRating": "R",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "datePublished": "1994-10-14",
+        "duration": "PT2H34M"
     },
     {
         "type": "Movie",
@@ -221,14 +213,7 @@
             "Drama"
         ],
         "datePublished": "2001-12-19",
-        "keywords": "ring,quest,hobbit,middle earth,elf",
-        "duration": "PT2H58M",
-        "director": [
-            {
-                "name": "Peter Jackson",
-                "url": "https://www.imdb.com/name/nm0001392/"
-            }
-        ]
+        "duration": "PT2H58M"
     },
     {
         "type": "Movie",
@@ -248,14 +233,7 @@
             "Sci-Fi"
         ],
         "datePublished": "2010-07-16",
-        "keywords": "dream,ambiguous ending,subconscious,mindbender,surprise ending",
-        "duration": "PT2H28M",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT2H28M"
     },
     {
         "type": "Movie",
@@ -273,14 +251,7 @@
             "Drama"
         ],
         "datePublished": "1999-10-15",
-        "keywords": "surprise ending,anti establishment,insomnia,multiple personality disorder,group therapy",
-        "duration": "PT2H19M",
-        "director": [
-            {
-                "name": "David Fincher",
-                "url": "https://www.imdb.com/name/nm0000399/"
-            }
-        ]
+        "duration": "PT2H19M"
     },
     {
         "type": "Movie",
@@ -300,14 +271,7 @@
             "Romance"
         ],
         "datePublished": "1994-07-06",
-        "keywords": "vietnam war,based on book,based on novel,vietnam,shrimp boat",
-        "duration": "PT2H22M",
-        "director": [
-            {
-                "name": "Robert Zemeckis",
-                "url": "https://www.imdb.com/name/nm0000709/"
-            }
-        ]
+        "duration": "PT2H22M"
     },
     {
         "type": "Movie",
@@ -329,13 +293,7 @@
         ],
         "datePublished": "2015-07-20",
         "keywords": null,
-        "duration": "PT6M",
-        "director": [
-            {
-                "name": "Cal Evans",
-                "url": "https://www.imdb.com/name/nm1009050/"
-            }
-        ]
+        "duration": "PT6M"
     },
     {
         "type": "Movie",
@@ -355,14 +313,7 @@
             "Drama"
         ],
         "datePublished": "2002-12-18",
-        "keywords": "middle earth,wizard,hobbit,orc,mission",
-        "duration": "PT2H59M",
-        "director": [
-            {
-                "name": "Peter Jackson",
-                "url": "https://www.imdb.com/name/nm0001392/"
-            }
-        ]
+        "duration": "PT2H59M"
     },
     {
         "type": "Movie",
@@ -382,42 +333,13 @@
             "Sci-Fi"
         ],
         "datePublished": "2014-11-07",
-        "keywords": "saving the world,astronaut,space travel,father daughter relationship,wormhole",
-        "duration": "PT2H49M",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT2H49M"
     },
     {
-        "type": "Movie",
-        "name": "Goodfellas",
-        "url": "https://www.imdb.com/tt0099685/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
-        "rating": {
-            "ratingCount": 1255550,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.7
-        },
-        "contentRating": "R",
-        "genre": [
-            "Biography",
-            "Crime",
-            "Drama"
-        ],
-        "datePublished": "1990-09-21",
-        "keywords": "gangster,mafia,organized crime,rise and fall,mob",
-        "duration": "PT2H25M",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -436,14 +358,7 @@
             "Drama"
         ],
         "datePublished": "1975-11-19",
-        "keywords": "mental institution,nurse,mental illness,escape,native american",
-        "duration": "PT2H13M",
-        "director": [
-            {
-                "name": "Milos Forman",
-                "url": "https://www.imdb.com/name/nm0001232/"
-            }
-        ]
+        "duration": "PT2H13M"
     },
     {
         "type": "Movie",
@@ -462,18 +377,7 @@
             "Sci-Fi"
         ],
         "datePublished": "1999-03-31",
-        "keywords": "artificial reality,simulated reality,war with machines,dystopia,post apocalypse",
-        "duration": "PT2H16M",
-        "director": [
-            {
-                "name": "Lana Wachowski",
-                "url": "https://www.imdb.com/name/nm0905154/"
-            },
-            {
-                "name": "Lilly Wachowski",
-                "url": "https://www.imdb.com/name/nm0905152/"
-            }
-        ]
+        "duration": "PT2H16M"
     },
     {
         "type": "Movie",
@@ -493,14 +397,7 @@
             "Fantasy"
         ],
         "datePublished": "1980-06-18",
-        "keywords": "famous twist,part of trilogy,the force,duel,rescue",
-        "duration": "PT2H4M",
-        "director": [
-            {
-                "name": "Irvin Kershner",
-                "url": "https://www.imdb.com/name/nm0449984/"
-            }
-        ]
+        "duration": "PT2H4M"
     },
     {
         "type": "Movie",
@@ -521,14 +418,7 @@
             "Mystery"
         ],
         "datePublished": "2021-11-02",
-        "keywords": "lawyer,courtroom,poverty,human rights,justice",
-        "duration": "PT2H44M",
-        "director": [
-            {
-                "name": "T.J. Gnanavel",
-                "url": "https://www.imdb.com/name/nm4377096/"
-            }
-        ]
+        "duration": "PT2H44M"
     },
     {
         "type": "Movie",
@@ -548,28 +438,28 @@
             "Adventure"
         ],
         "datePublished": "2023-06-02",
-        "keywords": "based on comic,second part,multiverse,spider man character,superhero",
-        "duration": "PT2H20M",
-        "director": [
-            {
-                "name": "Joaquim Dos Santos",
-                "url": "https://www.imdb.com/name/nm1690966/"
-            },
-            {
-                "name": "Kemp Powers",
-                "url": "https://www.imdb.com/name/nm5358492/"
-            },
-            {
-                "name": "Justin K. Thompson",
-                "url": "https://www.imdb.com/name/nm1042511/"
-            }
-        ]
+        "duration": "PT2H20M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Se7en",
+        "url": "https://www.imdb.com/tt0114369/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 1796048,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.6
+        },
+        "contentRating": "R",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "datePublished": "1995-09-22",
+        "duration": "PT2H7M"
     },
     {
         "type": "Movie",
@@ -589,41 +479,13 @@
             "Thriller"
         ],
         "datePublished": "1991-02-14",
-        "keywords": "serial killer,stuck in a well,psychopath,psycho thriller,bad guy wins",
-        "duration": "PT1H58M",
-        "director": [
-            {
-                "name": "Jonathan Demme",
-                "url": "https://www.imdb.com/name/nm0001129/"
-            }
-        ]
+        "duration": "PT1H58M"
     },
     {
-        "type": "Movie",
-        "name": "The Green Mile",
-        "url": "https://www.imdb.com/tt0120689/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
-        "rating": {
-            "ratingCount": 1405188,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.6
-        },
-        "contentRating": "R",
-        "genre": [
-            "Crime",
-            "Drama",
-            "Fantasy"
-        ],
-        "datePublished": "1999-12-10",
-        "keywords": "death row inmate,1930s,electric chair,death row,good versus evil",
-        "duration": "PT3H9M",
-        "director": [
-            {
-                "name": "Frank Darabont",
-                "url": "https://www.imdb.com/name/nm0001104/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -642,24 +504,14 @@
             "Drama"
         ],
         "datePublished": "2004-02-13",
-        "keywords": "photographer,slum,gang,brazil,favela",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Fernando Meirelles",
-                "url": "https://www.imdb.com/name/nm0576987/"
-            },
-            {
-                "name": "K\u00e1tia Lund",
-                "url": "https://www.imdb.com/name/nm0526199/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
         "name": "Terminator 2: Judgment Day",
         "url": "https://www.imdb.com/tt0103064/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 1172560,
             "bestRating": 10,
@@ -673,14 +525,7 @@
             "Sci-Fi"
         ],
         "datePublished": "1991-07-03",
-        "keywords": "time travel,future,alternate timeline,artificial intelligence,mother son relationship",
-        "duration": "PT2H17M",
-        "director": [
-            {
-                "name": "James Cameron",
-                "url": "https://www.imdb.com/name/nm0000116/"
-            }
-        ]
+        "duration": "PT2H17M"
     },
     {
         "type": "Movie",
@@ -699,20 +544,27 @@
             "War"
         ],
         "datePublished": "1998-07-24",
-        "keywords": "world war two,rescue mission,year 1944,d day,u.s. army",
-        "duration": "PT2H49M",
-        "director": [
-            {
-                "name": "Steven Spielberg",
-                "url": "https://www.imdb.com/name/nm0000229/"
-            }
-        ]
+        "duration": "PT2H49M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Sen to Chihiro no kamikakushi",
+        "url": "https://www.imdb.com/tt0245429/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "rating": {
+            "ratingCount": 847654,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.6
+        },
+        "contentRating": "PG",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "datePublished": "2003-03-28",
+        "duration": "PT2H5M"
     },
     {
         "type": "Movie",
@@ -732,14 +584,7 @@
             "Drama"
         ],
         "datePublished": "2011-09-16",
-        "keywords": "star wars,deleted scenes",
-        "duration": "PT8M",
-        "director": [
-            {
-                "name": "George Lucas",
-                "url": "https://www.imdb.com/name/nm0000184/"
-            }
-        ]
+        "duration": "PT8M"
     },
     {
         "type": "Movie",
@@ -759,14 +604,7 @@
             "Romance"
         ],
         "datePublished": "1997-12-20",
-        "keywords": "world war two,nazi occupation,tank,jewish,holocaust",
-        "duration": "PT1H56M",
-        "director": [
-            {
-                "name": "Roberto Benigni",
-                "url": "https://www.imdb.com/name/nm0000905/"
-            }
-        ]
+        "duration": "PT1H56M"
     },
     {
         "type": "Movie",
@@ -785,14 +623,7 @@
             "Drama"
         ],
         "datePublished": "1956-11-19",
-        "keywords": "samurai,16th century,battle,japan,old woman",
-        "duration": "PT3H27M",
-        "director": [
-            {
-                "name": "Akira Kurosawa",
-                "url": "https://www.imdb.com/name/nm0000041/"
-            }
-        ]
+        "duration": "PT3H27M"
     },
     {
         "type": "Movie",
@@ -812,20 +643,14 @@
             "Fantasy"
         ],
         "datePublished": "1947-01-07",
-        "keywords": "small town life,christmas,guardian angel,angel on earth,small town",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Frank Capra",
-                "url": "https://www.imdb.com/name/nm0001008/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
         "name": "Seppuku",
         "url": "https://www.imdb.com/tt0056058/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 68437,
             "bestRating": 10,
@@ -839,14 +664,7 @@
             "Mystery"
         ],
         "datePublished": "1964-08-04",
-        "keywords": "samurai,revenge,seppuku,suicide,poverty",
-        "duration": "PT2H13M",
-        "director": [
-            {
-                "name": "Masaki Kobayashi",
-                "url": "https://www.imdb.com/name/nm0462030/"
-            }
-        ]
+        "duration": "PT2H13M"
     },
     {
         "type": "Movie",
@@ -865,14 +683,7 @@
             "Thriller"
         ],
         "datePublished": "2019-11-08",
-        "keywords": "class differences,plot twist,social satire,fraud,house",
-        "duration": "PT2H12M",
-        "director": [
-            {
-                "name": "Bong Joon Ho",
-                "url": "https://www.imdb.com/name/nm0094435/"
-            }
-        ]
+        "duration": "PT2H12M"
     },
     {
         "type": "Movie",
@@ -892,21 +703,13 @@
             "Drama"
         ],
         "datePublished": "2000-05-05",
-        "keywords": "roman empire,gladiator,slavery,combat,battlefield",
-        "duration": "PT2H35M",
-        "director": [
-            {
-                "name": "Ridley Scott",
-                "url": "https://www.imdb.com/name/nm0000631/"
-            }
-        ]
+        "duration": "PT2H35M"
     },
     {
         "type": "Movie",
         "name": "The Departed",
         "url": "https://www.imdb.com/tt0407887/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 1420413,
             "bestRating": 10,
@@ -920,14 +723,7 @@
             "Thriller"
         ],
         "datePublished": "2006-10-06",
-        "keywords": "police,mobster,organized crime,undercover,irish american",
-        "duration": "PT2H31M",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "duration": "PT2H31M"
     },
     {
         "type": "Movie",
@@ -946,14 +742,7 @@
             "Music"
         ],
         "datePublished": "2014-10-15",
-        "keywords": "emotional abuse,drummer,teacher student relationship,jazz music,music school",
-        "duration": "PT1H46M",
-        "director": [
-            {
-                "name": "Damien Chazelle",
-                "url": "https://www.imdb.com/name/nm3227090/"
-            }
-        ]
+        "duration": "PT1H46M"
     },
     {
         "type": "Movie",
@@ -973,20 +762,26 @@
             "Sci-Fi"
         ],
         "datePublished": "1979-06-22",
-        "keywords": "alien,spaceship,outer space,female protagonist,monster",
-        "duration": "PT1H57M",
-        "director": [
-            {
-                "name": "Ridley Scott",
-                "url": "https://www.imdb.com/name/nm0000631/"
-            }
-        ]
+        "duration": "PT1H57M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Django Unchained",
+        "url": "https://www.imdb.com/tt1853728/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+        "rating": {
+            "ratingCount": 1691941,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.5
+        },
+        "contentRating": "R",
+        "genre": [
+            "Drama",
+            "Western"
+        ],
+        "datePublished": "2012-12-25",
+        "duration": "PT2H45M"
     },
     {
         "type": "Movie",
@@ -1006,14 +801,7 @@
             "Sci-Fi"
         ],
         "datePublished": "2006-10-20",
-        "keywords": "illusion,magician,rivalry,magic,death by drowning",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "status": 404,
@@ -1040,14 +828,7 @@
             "Drama"
         ],
         "datePublished": "1994-11-18",
-        "keywords": "hitman,killer child,revenge,assassin,loss of family",
-        "duration": "PT1H50M",
-        "director": [
-            {
-                "name": "Luc Besson",
-                "url": "https://www.imdb.com/name/nm0000108/"
-            }
-        ]
+        "duration": "PT1H50M"
     },
     {
         "type": "Movie",
@@ -1067,18 +848,7 @@
             "Drama"
         ],
         "datePublished": "1994-06-24",
-        "keywords": "africa,king,lion,shakespearean,prince",
-        "duration": "PT1H28M",
-        "director": [
-            {
-                "name": "Roger Allers",
-                "url": "https://www.imdb.com/name/nm0021249/"
-            },
-            {
-                "name": "Rob Minkoff",
-                "url": "https://www.imdb.com/name/nm0591450/"
-            }
-        ]
+        "duration": "PT1H28M"
     },
     {
         "type": "Movie",
@@ -1099,14 +869,7 @@
             "Mystery"
         ],
         "datePublished": "1995-08-16",
-        "keywords": "surprise ending,criminal mastermind,criminal,unreliable narrator,suspect",
-        "duration": "PT1H46M",
-        "director": [
-            {
-                "name": "Bryan Singer",
-                "url": "https://www.imdb.com/name/nm0001741/"
-            }
-        ]
+        "duration": "PT1H46M"
     },
     {
         "status": 404,
@@ -1133,14 +896,7 @@
             "Music"
         ],
         "datePublished": "2003-03-28",
-        "keywords": "holocaust,pianist,hiding a jew,survival,based on autobiography",
-        "duration": "PT2H30M",
-        "director": [
-            {
-                "name": "Roman Polanski",
-                "url": "https://www.imdb.com/name/nm0000591/"
-            }
-        ]
+        "duration": "PT2H30M"
     },
     {
         "type": "Movie",
@@ -1161,20 +917,14 @@
             "War"
         ],
         "datePublished": "1943-01-23",
-        "keywords": "nazi,love triangle,nightclub,casablanca morocco,anti nazi",
-        "duration": "PT1H42M",
-        "director": [
-            {
-                "name": "Michael Curtiz",
-                "url": "https://www.imdb.com/name/nm0002031/"
-            }
-        ]
+        "duration": "PT1H42M"
     },
     {
         "type": "Movie",
         "name": "Intouchables",
         "url": "https://www.imdb.com/tt1675434/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 927890,
             "bestRating": 10,
@@ -1187,18 +937,7 @@
             "Drama"
         ],
         "datePublished": "2011-11-02",
-        "keywords": "caregiver,class differences,disabled person,quadriplegia,rich poor",
-        "duration": "PT1H52M",
-        "director": [
-            {
-                "name": "Olivier Nakache",
-                "url": "https://www.imdb.com/name/nm0619923/"
-            },
-            {
-                "name": "\u00c9ric Toledano",
-                "url": "https://www.imdb.com/name/nm0865918/"
-            }
-        ]
+        "duration": "PT1H52M"
     },
     {
         "type": "Movie",
@@ -1218,14 +957,7 @@
             "Thriller"
         ],
         "datePublished": "1960-09-08",
-        "keywords": "motel,shower,stabbed with a knife,money,maniac",
-        "duration": "PT1H49M",
-        "director": [
-            {
-                "name": "Alfred Hitchcock",
-                "url": "https://www.imdb.com/name/nm0000033/"
-            }
-        ]
+        "duration": "PT1H49M"
     },
     {
         "type": "Movie",
@@ -1245,14 +977,7 @@
             "War"
         ],
         "datePublished": "1989-07-26",
-        "keywords": "food,orphan,1940s,survival,firefly",
-        "duration": "PT1H29M",
-        "director": [
-            {
-                "name": "Isao Takahata",
-                "url": "https://www.imdb.com/name/nm0847223/"
-            }
-        ]
+        "duration": "PT1H29M"
     },
     {
         "type": "Movie",
@@ -1272,13 +997,7 @@
         ],
         "datePublished": "2019-09-01",
         "keywords": null,
-        "duration": "PT3M",
-        "director": [
-            {
-                "name": "Cibas Cebas",
-                "url": "https://www.imdb.com/name/nm12101088/"
-            }
-        ]
+        "duration": "PT3M"
     },
     {
         "type": "Movie",
@@ -1297,20 +1016,14 @@
             "Thriller"
         ],
         "datePublished": "1954-09-01",
-        "keywords": "wheelchair,window,voyeur,apartment,broken leg",
-        "duration": "PT1H52M",
-        "director": [
-            {
-                "name": "Alfred Hitchcock",
-                "url": "https://www.imdb.com/name/nm0000033/"
-            }
-        ]
+        "duration": "PT1H52M"
     },
     {
         "type": "Movie",
         "name": "Nuovo Cinema Paradiso",
         "url": "https://www.imdb.com/tt0095765/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 282510,
             "bestRating": 10,
@@ -1323,14 +1036,7 @@
             "Romance"
         ],
         "datePublished": "1990-02-23",
-        "keywords": "film projectionist,cinema,flashback,blind man,coming of age",
-        "duration": "PT2H54M",
-        "director": [
-            {
-                "name": "Giuseppe Tornatore",
-                "url": "https://www.imdb.com/name/nm0868153/"
-            }
-        ]
+        "duration": "PT2H54M"
     },
     {
         "status": 404,
@@ -1343,7 +1049,6 @@
         "name": "City Lights",
         "url": "https://www.imdb.com/tt0021749/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 195857,
             "bestRating": 10,
@@ -1357,14 +1062,7 @@
             "Romance"
         ],
         "datePublished": "1931-03-07",
-        "keywords": "slapstick comedy,silent comedy,pantomime,music score composed by director,the little tramp character",
-        "duration": "PT1H27M",
-        "director": [
-            {
-                "name": "Charles Chaplin",
-                "url": "https://www.imdb.com/name/nm0000122/"
-            }
-        ]
+        "duration": "PT1H27M"
     },
     {
         "type": "Movie",
@@ -1384,14 +1082,7 @@
             "History"
         ],
         "datePublished": "2023-07-21",
-        "keywords": "manhattan project,nuclear physicist,nuclear,american politics,year 1945",
-        "duration": "PT3H",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT3H"
     },
     {
         "type": "Movie",
@@ -1411,14 +1102,7 @@
             "War"
         ],
         "datePublished": "2009-08-21",
-        "keywords": "nazi,revenge,world war two,alternate history,brutality",
-        "duration": "PT2H33M",
-        "director": [
-            {
-                "name": "Quentin Tarantino",
-                "url": "https://www.imdb.com/name/nm0000233/"
-            }
-        ]
+        "duration": "PT2H33M"
     },
     {
         "type": "Movie",
@@ -1438,14 +1122,7 @@
             "War"
         ],
         "datePublished": "1985-09-03",
-        "keywords": "mass murder,nazi occupied soviet union,extermination,nazi occupation,year 1943",
-        "duration": "PT2H22M",
-        "director": [
-            {
-                "name": "Elem Klimov",
-                "url": "https://www.imdb.com/name/nm0459552/"
-            }
-        ]
+        "duration": "PT2H22M"
     },
     {
         "status": 404,
@@ -1472,18 +1149,7 @@
             "Drama"
         ],
         "datePublished": "2019-04-26",
-        "keywords": "time travel,superhero,super villain,cosmic,marvel cinematic universe",
-        "duration": "PT3H1M",
-        "director": [
-            {
-                "name": "Anthony Russo",
-                "url": "https://www.imdb.com/name/nm0751577/"
-            },
-            {
-                "name": "Joe Russo",
-                "url": "https://www.imdb.com/name/nm0751648/"
-            }
-        ]
+        "duration": "PT3H1M"
     },
     {
         "type": "Movie",
@@ -1503,20 +1169,26 @@
             "Thriller"
         ],
         "datePublished": "2012-07-20",
-        "keywords": "batman character,bruce wayne character,terrorist plot,sequel,bravery",
-        "duration": "PT2H44M",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT2H44M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Memento",
+        "url": "https://www.imdb.com/tt0209144/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "rating": {
+            "ratingCount": 1321424,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.4
+        },
+        "contentRating": "R",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "datePublished": "2001-05-25",
+        "duration": "PT1H53M"
     },
     {
         "status": 404,
@@ -1541,20 +1213,14 @@
             "Horror"
         ],
         "datePublished": "1980-06-13",
-        "keywords": "haunted hotel,labyrinth,identical twins,hotel,typewriter",
-        "duration": "PT2H26M",
-        "director": [
-            {
-                "name": "Stanley Kubrick",
-                "url": "https://www.imdb.com/name/nm0000040/"
-            }
-        ]
+        "duration": "PT2H26M"
     },
     {
         "type": "Movie",
         "name": "Apocalypse Now",
         "url": "https://www.imdb.com/tt0078788/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 709220,
             "bestRating": 10,
@@ -1568,14 +1234,7 @@
             "War"
         ],
         "datePublished": "1979-08-15",
-        "keywords": "vietnam war,insanity,secret mission,vietnam,jungle",
-        "duration": "PT2H27M",
-        "director": [
-            {
-                "name": "Francis Ford Coppola",
-                "url": "https://www.imdb.com/name/nm0000338/"
-            }
-        ]
+        "duration": "PT2H27M"
     },
     {
         "type": "Movie",
@@ -1595,22 +1254,7 @@
             "Adventure"
         ],
         "datePublished": "2018-12-14",
-        "keywords": "multiverse,teenage superhero,wisecrack humor,posthumous cameo,miles morales character",
-        "duration": "PT1H57M",
-        "director": [
-            {
-                "name": "Bob Persichetti",
-                "url": "https://www.imdb.com/name/nm2130108/"
-            },
-            {
-                "name": "Peter Ramsey",
-                "url": "https://www.imdb.com/name/nm0709056/"
-            },
-            {
-                "name": "Rodney Rothman",
-                "url": "https://www.imdb.com/name/nm0745247/"
-            }
-        ]
+        "duration": "PT1H57M"
     },
     {
         "type": "Movie",
@@ -1630,18 +1274,7 @@
             "Sci-Fi"
         ],
         "datePublished": "2018-04-27",
-        "keywords": "superhero,death of recurring character,supervillain,ensemble cast,marvel cinematic universe",
-        "duration": "PT2H29M",
-        "director": [
-            {
-                "name": "Anthony Russo",
-                "url": "https://www.imdb.com/name/nm0751577/"
-            },
-            {
-                "name": "Joe Russo",
-                "url": "https://www.imdb.com/name/nm0751648/"
-            }
-        ]
+        "duration": "PT2H29M"
     },
     {
         "type": "Movie",
@@ -1660,14 +1293,7 @@
             "Adventure"
         ],
         "datePublished": "1981-06-12",
-        "keywords": "nazi,ark of the covenant,archeologist,female tied up,archeology",
-        "duration": "PT1H55M",
-        "director": [
-            {
-                "name": "Steven Spielberg",
-                "url": "https://www.imdb.com/name/nm0000229/"
-            }
-        ]
+        "duration": "PT1H55M"
     },
     {
         "type": "Movie",
@@ -1687,18 +1313,7 @@
             "Drama"
         ],
         "datePublished": "2017-11-22",
-        "keywords": "mexico,afterlife,musician,death,day of the dead",
-        "duration": "PT1H45M",
-        "director": [
-            {
-                "name": "Lee Unkrich",
-                "url": "https://www.imdb.com/name/nm0881279/"
-            },
-            {
-                "name": "Adrian Molina",
-                "url": "https://www.imdb.com/name/nm2937122/"
-            }
-        ]
+        "duration": "PT1H45M"
     },
     {
         "type": "Movie",
@@ -1719,48 +1334,20 @@
             "Music"
         ],
         "datePublished": "1984-09-19",
-        "keywords": "opera,composer,musician,classical composer,jealousy",
-        "duration": "PT2H40M",
-        "director": [
-            {
-                "name": "Milos Forman",
-                "url": "https://www.imdb.com/name/nm0001232/"
-            }
-        ]
+        "duration": "PT2H40M"
     },
     {
-        "type": "Movie",
-        "name": "Witness for the Prosecution",
-        "url": "https://www.imdb.com/tt0051201/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-        "description": null,
-        "rating": {
-            "ratingCount": 137657,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.4
-        },
-        "contentRating": "Approved",
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "datePublished": "1958-02-06",
-        "keywords": "lawyer,courtroom drama,defense attorney,courtroom,trial",
-        "duration": "PT1H56M",
-        "director": [
-            {
-                "name": "Billy Wilder",
-                "url": "https://www.imdb.com/name/nm0000697/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
         "name": "Kimi no na wa.",
         "url": "https://www.imdb.com/tt5311514/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 319100,
             "bestRating": 10,
@@ -1774,20 +1361,14 @@
             "Fantasy"
         ],
         "datePublished": "2017-04-07",
-        "keywords": "race against time,anime,comet,japan,falling in love",
-        "duration": "PT1H46M",
-        "director": [
-            {
-                "name": "Makoto Shinkai",
-                "url": "https://www.imdb.com/name/nm1396121/"
-            }
-        ]
+        "duration": "PT1H46M"
     },
     {
         "type": "Movie",
         "name": "WALL\u00b7E",
         "url": "https://www.imdb.com/tt0910970/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 1198785,
             "bestRating": 10,
@@ -1801,14 +1382,7 @@
             "Family"
         ],
         "datePublished": "2008-06-27",
-        "keywords": "robot,obesity,pollution,outer space,cityscape",
-        "duration": "PT1H38M",
-        "director": [
-            {
-                "name": "Andrew Stanton",
-                "url": "https://www.imdb.com/name/nm0004056/"
-            }
-        ]
+        "duration": "PT1H38M"
     },
     {
         "type": "Movie",
@@ -1827,14 +1401,7 @@
             "War"
         ],
         "datePublished": "1964-01-29",
-        "keywords": "war room,bodily fluids,nuclear attack,crazy general,military spoof",
-        "duration": "PT1H35M",
-        "director": [
-            {
-                "name": "Stanley Kubrick",
-                "url": "https://www.imdb.com/name/nm0000040/"
-            }
-        ]
+        "duration": "PT1H35M"
     },
     {
         "type": "Movie",
@@ -1854,14 +1421,7 @@
             "Drama"
         ],
         "datePublished": "2009-12-25",
-        "keywords": "hairy chest,motivation,coming of age,against the system,papadum",
-        "duration": "PT2H50M",
-        "director": [
-            {
-                "name": "Rajkumar Hirani",
-                "url": "https://www.imdb.com/name/nm0386246/"
-            }
-        ]
+        "duration": "PT2H50M"
     },
     {
         "type": "Movie",
@@ -1882,13 +1442,7 @@
         ],
         "datePublished": "2014-06-10",
         "keywords": null,
-        "duration": null,
-        "director": [
-            {
-                "name": "Bahareh Ahmadi",
-                "url": "https://www.imdb.com/name/nm10191330/"
-            }
-        ]
+        "duration": null
     },
     {
         "type": "Movie",
@@ -1906,21 +1460,13 @@
             "Drama"
         ],
         "datePublished": "2018-09-20",
-        "keywords": "prison,child marriage,baby,street child,poverty",
-        "duration": "PT2H6M",
-        "director": [
-            {
-                "name": "Nadine Labaki",
-                "url": "https://www.imdb.com/name/nm1701024/"
-            }
-        ]
+        "duration": "PT2H6M"
     },
     {
         "type": "Movie",
         "name": "Sunset Boulevard",
         "url": "https://www.imdb.com/tt0043014/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 236171,
             "bestRating": 10,
@@ -1933,14 +1479,7 @@
             "Film-Noir"
         ],
         "datePublished": "1950-08-04",
-        "keywords": "narrated from the grave,silent film star,hollywood california,butler,jealousy",
-        "duration": "PT1H50M",
-        "director": [
-            {
-                "name": "Billy Wilder",
-                "url": "https://www.imdb.com/name/nm0000697/"
-            }
-        ]
+        "duration": "PT1H50M"
     },
     {
         "type": "Movie",
@@ -1960,14 +1499,7 @@
             "Sport"
         ],
         "datePublished": "2023-12-25",
-        "keywords": "olympic games,american flag,based on true story,bare chested man,great depression",
-        "duration": "PT2H3M",
-        "director": [
-            {
-                "name": "George Clooney",
-                "url": "https://www.imdb.com/name/nm0000123/"
-            }
-        ]
+        "duration": "PT2H3M"
     },
     {
         "type": "Movie",
@@ -1987,20 +1519,7 @@
             "War"
         ],
         "datePublished": "1957-12-25",
-        "keywords": "trench warfare,military officer,courtroom,rifle,world war one",
-        "duration": "PT1H28M",
-        "director": [
-            {
-                "name": "Stanley Kubrick",
-                "url": "https://www.imdb.com/name/nm0000040/"
-            }
-        ]
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "duration": "PT1H28M"
     },
     {
         "status": 404,
@@ -2010,10 +1529,29 @@
     },
     {
         "type": "Movie",
+        "name": "The Great Dictator",
+        "url": "https://www.imdb.com/tt0032553/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "rating": {
+            "ratingCount": 237126,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.4
+        },
+        "contentRating": "G",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "datePublished": "1941-03-07",
+        "duration": "PT2H5M"
+    },
+    {
+        "type": "Movie",
         "name": "Gojira -1.0",
         "url": "https://www.imdb.com/tt23289160/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTI5MjNjMTMtN2NiNC00YjBlLTgzMWQtMGRhZDZkYmY1NGU2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 48295,
             "bestRating": 10,
@@ -2027,14 +1565,7 @@
             "Drama"
         ],
         "datePublished": "2023-12-01",
-        "keywords": "godzilla,kaiju,japan,1940s,monster",
-        "duration": "PT2H4M",
-        "director": [
-            {
-                "name": "Takashi Yamazaki",
-                "url": "https://www.imdb.com/name/nm0945724/"
-            }
-        ]
+        "duration": "PT2H4M"
     },
     {
         "type": "Movie",
@@ -2054,14 +1585,7 @@
             "Romance"
         ],
         "datePublished": "1998-01-09",
-        "keywords": "professor,genius,mathematical genius,loss of wife,friend",
-        "duration": "PT2H6M",
-        "director": [
-            {
-                "name": "Gus Van Sant",
-                "url": "https://www.imdb.com/name/nm0001814/"
-            }
-        ]
+        "duration": "PT2H6M"
     },
     {
         "type": "Movie",
@@ -2081,14 +1605,7 @@
             "War"
         ],
         "datePublished": "2011-01-12",
-        "keywords": "middle east,twin brother and sister,family relationships,university,pregnant from rape",
-        "duration": "PT2H11M",
-        "director": [
-            {
-                "name": "Denis Villeneuve",
-                "url": "https://www.imdb.com/name/nm0898288/"
-            }
-        ]
+        "duration": "PT2H11M"
     },
     {
         "type": "Movie",
@@ -2109,14 +1626,7 @@
             "Sci-Fi"
         ],
         "datePublished": "2004-03-19",
-        "keywords": "memory,loneliness,valentine&apos;s day,flashback,nonlinear timeline",
-        "duration": "PT1H48M",
-        "director": [
-            {
-                "name": "Michel Gondry",
-                "url": "https://www.imdb.com/name/nm0327273/"
-            }
-        ]
+        "duration": "PT1H48M"
     },
     {
         "type": "Movie",
@@ -2135,20 +1645,14 @@
             "Drama"
         ],
         "datePublished": "1999-10-01",
-        "keywords": "midlife crisis,loveless marriage,obsession,drug dealer,drug use",
-        "duration": "PT2H2M",
-        "director": [
-            {
-                "name": "Sam Mendes",
-                "url": "https://www.imdb.com/name/nm0005222/"
-            }
-        ]
+        "duration": "PT2H2M"
     },
     {
         "type": "Movie",
         "name": "Heat",
         "url": "https://www.imdb.com/tt0113277/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 718336,
             "bestRating": 10,
@@ -2162,14 +1666,7 @@
             "Drama"
         ],
         "datePublished": "1995-12-15",
-        "keywords": "gun battle,armored car robbery,gunfight,honor,criminal investigation",
-        "duration": "PT2H50M",
-        "director": [
-            {
-                "name": "Michael Mann",
-                "url": "https://www.imdb.com/name/nm0000520/"
-            }
-        ]
+        "duration": "PT2H50M"
     },
     {
         "status": 404,
@@ -2195,14 +1692,7 @@
             "Mystery"
         ],
         "datePublished": "2003-11-21",
-        "keywords": "psychological torture,revenge,captive,neo noir,incest",
-        "duration": "PT2H",
-        "director": [
-            {
-                "name": "Park Chan-wook",
-                "url": "https://www.imdb.com/name/nm0661791/"
-            }
-        ]
+        "duration": "PT2H"
     },
     {
         "type": "Movie",
@@ -2221,14 +1711,7 @@
             "Sci-Fi"
         ],
         "datePublished": "1968-05-12",
-        "keywords": "monolith,human versus computer,star child,famous line,computer",
-        "duration": "PT2H29M",
-        "director": [
-            {
-                "name": "Stanley Kubrick",
-                "url": "https://www.imdb.com/name/nm0000040/"
-            }
-        ]
+        "duration": "PT2H29M"
     },
     {
         "status": 404,
@@ -2254,14 +1737,7 @@
             "Sci-Fi"
         ],
         "datePublished": "1972-02-02",
-        "keywords": "gang,dystopia,sexual assault,sex crime,unprovoked violence",
-        "duration": "PT2H16M",
-        "director": [
-            {
-                "name": "Stanley Kubrick",
-                "url": "https://www.imdb.com/name/nm0000040/"
-            }
-        ]
+        "duration": "PT2H16M"
     },
     {
         "type": "Movie",
@@ -2280,14 +1756,7 @@
             "Drama"
         ],
         "datePublished": "1983-12-09",
-        "keywords": "cocaine,gangster,murderer as protagonist,organized crime,criminal as protagonist",
-        "duration": "PT2H50M",
-        "director": [
-            {
-                "name": "Brian De Palma",
-                "url": "https://www.imdb.com/name/nm0000361/"
-            }
-        ]
+        "duration": "PT2H50M"
     },
     {
         "type": "Movie",
@@ -2307,14 +1776,7 @@
             "War"
         ],
         "datePublished": "1995-05-24",
-        "keywords": "scotland,revolt,idealism,thrown through a window,tyranny",
-        "duration": "PT2H58M",
-        "director": [
-            {
-                "name": "Mel Gibson",
-                "url": "https://www.imdb.com/name/nm0000154/"
-            }
-        ]
+        "duration": "PT2H58M"
     },
     {
         "type": "Movie",
@@ -2332,14 +1794,7 @@
             "Drama"
         ],
         "datePublished": "2013-01-10",
-        "keywords": "kindergarten teacher,friendship between men,punched in the face,divorced man,gun",
-        "duration": "PT1H55M",
-        "director": [
-            {
-                "name": "Thomas Vinterberg",
-                "url": "https://www.imdb.com/name/nm0899121/"
-            }
-        ]
+        "duration": "PT1H55M"
     },
     {
         "status": 404,
@@ -2364,14 +1819,7 @@
             "Drama"
         ],
         "datePublished": "1984-06-01",
-        "keywords": "gangster,prohibition,rape,new york city,1920s",
-        "duration": "PT3H49M",
-        "director": [
-            {
-                "name": "Sergio Leone",
-                "url": "https://www.imdb.com/name/nm0001466/"
-            }
-        ]
+        "duration": "PT3H49M"
     },
     {
         "type": "Movie",
@@ -2391,14 +1839,7 @@
             "Comedy"
         ],
         "datePublished": "1995-11-22",
-        "keywords": "toy,toy comes to life,rivalry,claw crane,enemies become friends",
-        "duration": "PT1H21M",
-        "director": [
-            {
-                "name": "John Lasseter",
-                "url": "https://www.imdb.com/name/nm0005124/"
-            }
-        ]
+        "duration": "PT1H21M"
     },
     {
         "type": "Movie",
@@ -2418,14 +1859,7 @@
             "Romance"
         ],
         "datePublished": "2004-06-25",
-        "keywords": "love,alzheimer&apos;s disease,summer love,class differences,nightgown",
-        "duration": "PT2H3M",
-        "director": [
-            {
-                "name": "Nick Cassavetes",
-                "url": "https://www.imdb.com/name/nm0001024/"
-            }
-        ]
+        "duration": "PT2H3M"
     },
     {
         "type": "Movie",
@@ -2445,14 +1879,7 @@
             "History"
         ],
         "datePublished": "2020-07-03",
-        "keywords": "alexander hamilton character,american history,epic,shot to death,revolutionary war",
-        "duration": "PT2H40M",
-        "director": [
-            {
-                "name": "Thomas Kail",
-                "url": "https://www.imdb.com/name/nm2371802/"
-            }
-        ]
+        "duration": "PT2H40M"
     },
     {
         "type": "Movie",
@@ -2472,18 +1899,7 @@
             "Comedy"
         ],
         "datePublished": "2009-05-29",
-        "keywords": "heartfelt,balloon,talking dog,original story,child in jeopardy",
-        "duration": "PT1H36M",
-        "director": [
-            {
-                "name": "Pete Docter",
-                "url": "https://www.imdb.com/name/nm0230032/"
-            },
-            {
-                "name": "Bob Peterson",
-                "url": "https://www.imdb.com/name/nm0677037/"
-            }
-        ]
+        "duration": "PT1H36M"
     },
     {
         "type": "Movie",
@@ -2504,14 +1920,7 @@
             "Drama"
         ],
         "datePublished": "1962-12-11",
-        "keywords": "desert,arabia,ottoman empire,arab,bedouin",
-        "duration": "PT3H38M",
-        "director": [
-            {
-                "name": "David Lean",
-                "url": "https://www.imdb.com/name/nm0000180/"
-            }
-        ]
+        "duration": "PT3H38M"
     },
     {
         "type": "Movie",
@@ -2531,20 +1940,14 @@
             "Fantasy"
         ],
         "datePublished": "1983-05-25",
-        "keywords": "death star,millennium falcon,bounty hunter,brother sister relationship,father son relationship",
-        "duration": "PT2H11M",
-        "director": [
-            {
-                "name": "Richard Marquand",
-                "url": "https://www.imdb.com/name/nm0549658/"
-            }
-        ]
+        "duration": "PT2H11M"
     },
     {
         "type": "Movie",
         "name": "Mononoke-hime",
         "url": "https://www.imdb.com/tt0119698/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjM3NGExNDctYmU0Yy00MTJjLThlNTItMjM4NDBjMGRiMmE5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 433037,
             "bestRating": 10,
@@ -2558,20 +1961,27 @@
             "Adventure"
         ],
         "datePublished": "1997-12-19",
-        "keywords": "forest,curse,princess,studio ghibli,giant wolf",
-        "duration": "PT2H14M",
-        "director": [
-            {
-                "name": "Hayao Miyazaki",
-                "url": "https://www.imdb.com/name/nm0594503/"
-            }
-        ]
+        "duration": "PT2H14M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "The Sting",
+        "url": "https://www.imdb.com/tt0070735/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "rating": {
+            "ratingCount": 279551,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.3
+        },
+        "contentRating": "PG",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "datePublished": "1973-12-25",
+        "duration": "PT2H9M"
     },
     {
         "type": "Movie",
@@ -2591,21 +2001,13 @@
             "Drama"
         ],
         "datePublished": "1963-03-16",
-        "keywords": "trial,lawyer,based on novel,small town,alabama",
-        "duration": "PT2H9M",
-        "director": [
-            {
-                "name": "Robert Mulligan",
-                "url": "https://www.imdb.com/name/nm0612322/"
-            }
-        ]
+        "duration": "PT2H9M"
     },
     {
         "type": "Movie",
         "name": "Citizen Kane",
         "url": "https://www.imdb.com/tt0033467/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 465562,
             "bestRating": 10,
@@ -2618,14 +2020,7 @@
             "Mystery"
         ],
         "datePublished": "1941-09-05",
-        "keywords": "newspaper publisher,rosebud,working man,new york,written and directed by cast member",
-        "duration": "PT1H59M",
-        "director": [
-            {
-                "name": "Orson Welles",
-                "url": "https://www.imdb.com/name/nm0000080/"
-            }
-        ]
+        "duration": "PT1H59M"
     },
     {
         "type": "Movie",
@@ -2645,41 +2040,13 @@
             "Comedy"
         ],
         "datePublished": "2010-06-18",
-        "keywords": "mr. potato head character,toy,escape,evil teddy bear,recycling",
-        "duration": "PT1H43M",
-        "director": [
-            {
-                "name": "Lee Unkrich",
-                "url": "https://www.imdb.com/name/nm0881279/"
-            }
-        ]
+        "duration": "PT1H43M"
     },
     {
-        "type": "Movie",
-        "name": "Vertigo",
-        "url": "https://www.imdb.com/tt0052357/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "rating": {
-            "ratingCount": 426385,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.3
-        },
-        "contentRating": "PG",
-        "genre": [
-            "Mystery",
-            "Romance",
-            "Thriller"
-        ],
-        "datePublished": "1958-05-28",
-        "keywords": "romantic obsession,san francisco bay,vertigo,1950s,acrophobia",
-        "duration": "PT2H8M",
-        "director": [
-            {
-                "name": "Alfred Hitchcock",
-                "url": "https://www.imdb.com/name/nm0000033/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -2699,20 +2066,28 @@
             "Sci-Fi"
         ],
         "datePublished": "1927-03-13",
-        "keywords": "robot,dystopia,silent film,futuristic,expressionism",
-        "duration": "PT2H33M",
-        "director": [
-            {
-                "name": "Fritz Lang",
-                "url": "https://www.imdb.com/name/nm0000485/"
-            }
-        ]
+        "duration": "PT2H33M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "North by Northwest",
+        "url": "https://www.imdb.com/tt0053125/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 345721,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.3
+        },
+        "contentRating": "Approved",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "datePublished": "1959-12-18",
+        "duration": "PT2H16M"
     },
     {
         "type": "Movie",
@@ -2733,25 +2108,13 @@
             "Romance"
         ],
         "datePublished": "1952-04-10",
-        "keywords": "movie studio,film within a film,femme fatale,hollywood california,film history",
-        "duration": "PT1H43M",
-        "director": [
-            {
-                "name": "Stanley Donen",
-                "url": "https://www.imdb.com/name/nm0002045/"
-            },
-            {
-                "name": "Gene Kelly",
-                "url": "https://www.imdb.com/name/nm0000037/"
-            }
-        ]
+        "duration": "PT1H43M"
     },
     {
         "type": "Movie",
         "name": "The Apartment",
         "url": "https://www.imdb.com/tt0053604/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 196506,
             "bestRating": 10,
@@ -2765,14 +2128,7 @@
             "Romance"
         ],
         "datePublished": "1960-06-29",
-        "keywords": "apartment,christmas,key under a mat,promotion,christmas eve",
-        "duration": "PT2H5M",
-        "director": [
-            {
-                "name": "Billy Wilder",
-                "url": "https://www.imdb.com/name/nm0000697/"
-            }
-        ]
+        "duration": "PT2H5M"
     },
     {
         "type": "Movie",
@@ -2791,14 +2147,7 @@
             "Thriller"
         ],
         "datePublished": "2024-04-05",
-        "keywords": "lgbt,gay,fight,one person army action,knife",
-        "duration": "PT2H1M",
-        "director": [
-            {
-                "name": "Dev Patel",
-                "url": "https://www.imdb.com/name/nm2353862/"
-            }
-        ]
+        "duration": "PT2H1M"
     },
     {
         "type": "Movie",
@@ -2818,20 +2167,14 @@
             "War"
         ],
         "datePublished": "1961-12-18",
-        "keywords": "war crimes trial,nuremberg trials,allies occupation of germany,war crimes court,nuremberg germany",
-        "duration": "PT2H59M",
-        "director": [
-            {
-                "name": "Stanley Kramer",
-                "url": "https://www.imdb.com/name/nm0006452/"
-            }
-        ]
+        "duration": "PT2H59M"
     },
     {
         "type": "Movie",
         "name": "Dangal",
         "url": "https://www.imdb.com/tt5074352/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 210047,
             "bestRating": 10,
@@ -2845,14 +2188,7 @@
             "Drama"
         ],
         "datePublished": "2016-12-21",
-        "keywords": "small town,inspirational,father daughter relationship,based on true story,female protagonist",
-        "duration": "PT2H41M",
-        "director": [
-            {
-                "name": "Nitesh Tiwari",
-                "url": "https://www.imdb.com/name/nm4318159/"
-            }
-        ]
+        "duration": "PT2H41M"
     },
     {
         "type": "Movie",
@@ -2870,14 +2206,7 @@
             "Drama"
         ],
         "datePublished": "2011-03-16",
-        "keywords": "divorce,alzheimer&apos;s disease,marital problem,iran,court",
-        "duration": "PT2H3M",
-        "director": [
-            {
-                "name": "Asghar Farhadi",
-                "url": "https://www.imdb.com/name/nm1410815/"
-            }
-        ]
+        "duration": "PT2H3M"
     },
     {
         "type": "Movie",
@@ -2898,21 +2227,13 @@
             "Film-Noir"
         ],
         "datePublished": "1944-07-06",
-        "keywords": "insurance investigation,femme fatale,infidelity,insurance,murder",
-        "duration": "PT1H47M",
-        "director": [
-            {
-                "name": "Billy Wilder",
-                "url": "https://www.imdb.com/name/nm0000697/"
-            }
-        ]
+        "duration": "PT1H47M"
     },
     {
         "type": "Movie",
         "name": "Kimitachi wa d\u00f4 ikiru ka",
         "url": "https://www.imdb.com/tt6587046/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjZkNThjNTMtOGU0Ni00ZDliLThmNGUtZmMxNWQ3YzAxZTQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 50289,
             "bestRating": 10,
@@ -2926,14 +2247,7 @@
             "Drama"
         ],
         "datePublished": "2023-12-08",
-        "keywords": "heron,parakeet,fire,grief,studio ghibli",
-        "duration": "PT2H4M",
-        "director": [
-            {
-                "name": "Hayao Miyazaki",
-                "url": "https://www.imdb.com/name/nm0594503/"
-            }
-        ]
+        "duration": "PT2H4M"
     },
     {
         "type": "Movie",
@@ -2952,14 +2266,7 @@
             "Drama"
         ],
         "datePublished": "1949-12-13",
-        "keywords": "post world war two italy,bicycle theft,lack of money,bicycle,thief",
-        "duration": "PT1H29M",
-        "director": [
-            {
-                "name": "Vittorio De Sica",
-                "url": "https://www.imdb.com/name/nm0001120/"
-            }
-        ]
+        "duration": "PT1H29M"
     },
     {
         "type": "Movie",
@@ -2978,18 +2285,7 @@
             "Family"
         ],
         "datePublished": "2007-12-21",
-        "keywords": "dyslexia,child,dream,despair,teacher student relationship",
-        "duration": "PT2H42M",
-        "director": [
-            {
-                "name": "Aamir Khan",
-                "url": "https://www.imdb.com/name/nm0451148/"
-            },
-            {
-                "name": "Amole Gupte",
-                "url": "https://www.imdb.com/name/nm1244760/"
-            }
-        ]
+        "duration": "PT2H42M"
     },
     {
         "type": "Movie",
@@ -3010,14 +2306,7 @@
             "Romance"
         ],
         "datePublished": "2024-02-27",
-        "keywords": "scientist,surrealism,female full frontal nudity,female prostitute,female topless nudity",
-        "duration": "PT2H21M",
-        "director": [
-            {
-                "name": "Yorgos Lanthimos",
-                "url": "https://www.imdb.com/name/nm0487166/"
-            }
-        ]
+        "duration": "PT2H21M"
     },
     {
         "type": "Movie",
@@ -3037,14 +2326,7 @@
             "Drama"
         ],
         "datePublished": "2022-05-27",
-        "keywords": "fighter jet,aircraft carrier,dogfight,sequel,naval aviation",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Joseph Kosinski",
-                "url": "https://www.imdb.com/name/nm2676052/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
@@ -3064,14 +2346,7 @@
             "Crime"
         ],
         "datePublished": "2013-12-25",
-        "keywords": "based on true story,stockbroker,1990s,adultery,sex in bed",
-        "duration": "PT3H",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "duration": "PT3H"
     },
     {
         "type": "Movie",
@@ -3092,18 +2367,7 @@
             "Thriller"
         ],
         "datePublished": "2007-11-21",
-        "keywords": "neo western,texas,neo noir,sheriff,desert",
-        "duration": "PT2H2M",
-        "director": [
-            {
-                "name": "Ethan Coen",
-                "url": "https://www.imdb.com/name/nm0001053/"
-            },
-            {
-                "name": "Joel Coen",
-                "url": "https://www.imdb.com/name/nm0001054/"
-            }
-        ]
+        "duration": "PT2H2M"
     },
     {
         "type": "Movie",
@@ -3123,21 +2387,13 @@
             "Thriller"
         ],
         "datePublished": "2010-02-19",
-        "keywords": "surprise ending,self delusion,medical experiment,psyche,neo noir",
-        "duration": "PT2H18M",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "duration": "PT2H18M"
     },
     {
         "type": "Movie",
         "name": "Spider-Man: No Way Home",
         "url": "https://www.imdb.com/tt10872600/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 876913,
             "bestRating": 10,
@@ -3151,14 +2407,7 @@
             "Fantasy"
         ],
         "datePublished": "2021-12-17",
-        "keywords": "spider man character,superhero,marvel cinematic universe,multiverse,green goblin character",
-        "duration": "PT2H28M",
-        "director": [
-            {
-                "name": "Jon Watts",
-                "url": "https://www.imdb.com/name/nm1218281/"
-            }
-        ]
+        "duration": "PT2H28M"
     },
     {
         "type": "Movie",
@@ -3179,14 +2428,7 @@
             "Sci-Fi"
         ],
         "datePublished": "1993-06-11",
-        "keywords": "dinosaur,scientist,bipedal dinosaur,tyrannosaurus rex,sneeze",
-        "duration": "PT2H7M",
-        "director": [
-            {
-                "name": "Steven Spielberg",
-                "url": "https://www.imdb.com/name/nm0000229/"
-            }
-        ]
+        "duration": "PT2H7M"
     },
     {
         "type": "Movie",
@@ -3207,14 +2449,7 @@
             "Drama"
         ],
         "datePublished": "2018-11-16",
-        "keywords": "on the road,racism,fried chicken,jail,piano",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Peter Farrelly",
-                "url": "https://www.imdb.com/name/nm0268380/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
@@ -3234,20 +2469,14 @@
             "Drama"
         ],
         "datePublished": "2005-06-15",
-        "keywords": "superhero,social decay,origin of hero,batman character,gotham city",
-        "duration": "PT2H20M",
-        "director": [
-            {
-                "name": "Christopher Nolan",
-                "url": "https://www.imdb.com/name/nm0634240/"
-            }
-        ]
+        "duration": "PT2H20M"
     },
     {
         "type": "Movie",
         "name": "Taxi Driver",
         "url": "https://www.imdb.com/tt0075314/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 919149,
             "bestRating": 10,
@@ -3260,14 +2489,7 @@
             "Drama"
         ],
         "datePublished": "1976-02-09",
-        "keywords": "taxi driver,loner,street life,child prostitution,neo noir",
-        "duration": "PT1H54M",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "duration": "PT1H54M"
     },
     {
         "type": "Movie",
@@ -3287,14 +2509,7 @@
             "Thriller"
         ],
         "datePublished": "1988-07-20",
-        "keywords": "hostage,one against many,los angeles california,christmas,heist",
-        "duration": "PT2H12M",
-        "director": [
-            {
-                "name": "John McTiernan",
-                "url": "https://www.imdb.com/name/nm0001532/"
-            }
-        ]
+        "duration": "PT2H12M"
     },
     {
         "type": "Movie",
@@ -3313,20 +2528,27 @@
             "Mystery"
         ],
         "datePublished": "2021-02-26",
-        "keywords": "dementia,alzheimer&apos;s disease,memory loss,based on play,father daughter relationship",
-        "duration": "PT1H37M",
-        "director": [
-            {
-                "name": "Florian Zeller",
-                "url": "https://www.imdb.com/name/nm1725469/"
-            }
-        ]
+        "duration": "PT1H37M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Snatch",
+        "url": "https://www.imdb.com/tt0208092/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 909703,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.2
+        },
+        "contentRating": "R",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "datePublished": "2001-01-19",
+        "duration": "PT1H42M"
     },
     {
         "type": "Movie",
@@ -3344,26 +2566,35 @@
             "Drama"
         ],
         "datePublished": "2008-01-25",
-        "keywords": "misanthrope,oil,loss of hearing,impostor,based on novel",
-        "duration": "PT2H38M",
-        "director": [
-            {
-                "name": "Paul Thomas Anderson",
-                "url": "https://www.imdb.com/name/nm0000759/"
-            }
-        ]
+        "duration": "PT2H38M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "1917",
+        "url": "https://www.imdb.com/tt8579674/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 673783,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.2
+        },
+        "contentRating": "R",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "datePublished": "2020-01-10",
+        "duration": "PT1H59M"
     },
     {
         "type": "Movie",
         "name": "The Truman Show",
         "url": "https://www.imdb.com/tt0120382/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 1194022,
             "bestRating": 10,
@@ -3376,14 +2607,7 @@
             "Drama"
         ],
         "datePublished": "1998-06-05",
-        "keywords": "hidden camera,simulated reality,fictional reality show,controlled environment,paranoia",
-        "duration": "PT1H43M",
-        "director": [
-            {
-                "name": "Peter Weir",
-                "url": "https://www.imdb.com/name/nm0001837/"
-            }
-        ]
+        "duration": "PT1H43M"
     },
     {
         "status": 404,
@@ -3409,14 +2633,7 @@
             "Thriller"
         ],
         "datePublished": "2003-10-10",
-        "keywords": "revenge,female protagonist,female warrior,original story,female bare feet",
-        "duration": "PT1H51M",
-        "director": [
-            {
-                "name": "Quentin Tarantino",
-                "url": "https://www.imdb.com/name/nm0000233/"
-            }
-        ]
+        "duration": "PT1H51M"
     },
     {
         "type": "Movie",
@@ -3436,14 +2653,7 @@
             "Thriller"
         ],
         "datePublished": "1999-08-06",
-        "keywords": "plot twist,surprise ending,single mother,ghost,boy",
-        "duration": "PT1H47M",
-        "director": [
-            {
-                "name": "M. Night Shyamalan",
-                "url": "https://www.imdb.com/name/nm0796117/"
-            }
-        ]
+        "duration": "PT1H47M"
     },
     {
         "type": "Movie",
@@ -3463,14 +2673,7 @@
             "Family"
         ],
         "datePublished": "2005-06-17",
-        "keywords": "studio ghibli,castle,witch,wizard,steampunk",
-        "duration": "PT1H59M",
-        "director": [
-            {
-                "name": "Hayao Miyazaki",
-                "url": "https://www.imdb.com/name/nm0594503/"
-            }
-        ]
+        "duration": "PT1H59M"
     },
     {
         "type": "Movie",
@@ -3490,14 +2693,7 @@
             "Mystery"
         ],
         "datePublished": "1997-09-19",
-        "keywords": "corruption,neo noir,1950s,murder,call girl",
-        "duration": "PT2H18M",
-        "director": [
-            {
-                "name": "Curtis Hanson",
-                "url": "https://www.imdb.com/name/nm0000436/"
-            }
-        ]
+        "duration": "PT2H18M"
     },
     {
         "type": "Movie",
@@ -3517,14 +2713,7 @@
             "Mystery"
         ],
         "datePublished": "2002-01-04",
-        "keywords": "mental illness,mathematician,schizophrenia,nobel prize,game theory",
-        "duration": "PT2H15M",
-        "director": [
-            {
-                "name": "Ron Howard",
-                "url": "https://www.imdb.com/name/nm0000165/"
-            }
-        ]
+        "duration": "PT2H15M"
     },
     {
         "type": "Movie",
@@ -3544,18 +2733,7 @@
             "Comedy"
         ],
         "datePublished": "2003-05-30",
-        "keywords": "pufferfish,nemo the clownfish character,blood,shark,short term memory loss",
-        "duration": "PT1H40M",
-        "director": [
-            {
-                "name": "Andrew Stanton",
-                "url": "https://www.imdb.com/name/nm0004056/"
-            },
-            {
-                "name": "Lee Unkrich",
-                "url": "https://www.imdb.com/name/nm0881279/"
-            }
-        ]
+        "duration": "PT1H40M"
     },
     {
         "type": "Movie",
@@ -3575,22 +2753,7 @@
             "War"
         ],
         "datePublished": "1940-01-17",
-        "keywords": "based on novel,american civil war,narcissism,black stereotype,narcissistic personality disorder",
-        "duration": "PT3H58M",
-        "director": [
-            {
-                "name": "Victor Fleming",
-                "url": "https://www.imdb.com/name/nm0281808/"
-            },
-            {
-                "name": "George Cukor",
-                "url": "https://www.imdb.com/name/nm0002030/"
-            },
-            {
-                "name": "Sam Wood",
-                "url": "https://www.imdb.com/name/nm0939992/"
-            }
-        ]
+        "duration": "PT3H58M"
     },
     {
         "type": "Movie",
@@ -3610,14 +2773,7 @@
             "Drama"
         ],
         "datePublished": "1995-11-22",
-        "keywords": "crime epic,mafia,gambling,las vegas nevada,casino",
-        "duration": "PT2H58M",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "duration": "PT2H58M"
     },
     {
         "type": "Movie",
@@ -3638,14 +2794,7 @@
             "Sci-Fi"
         ],
         "datePublished": "2006-03-17",
-        "keywords": "revolution,dystopia,fascist,freedom,vigilante",
-        "duration": "PT2H12M",
-        "director": [
-            {
-                "name": "James McTeigue",
-                "url": "https://www.imdb.com/name/nm0574625/"
-            }
-        ]
+        "duration": "PT2H12M"
     },
     {
         "type": "Movie",
@@ -3665,14 +2814,7 @@
             "Western"
         ],
         "datePublished": "1992-08-07",
-        "keywords": "revenge,revisionist western,one last job,sadist,gun control",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Clint Eastwood",
-                "url": "https://www.imdb.com/name/nm0000142/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
@@ -3693,21 +2835,13 @@
             "War"
         ],
         "datePublished": "2007-01-19",
-        "keywords": "fairy,maze,spain,labyrinth,hiding",
-        "duration": "PT1H58M",
-        "director": [
-            {
-                "name": "Guillermo del Toro",
-                "url": "https://www.imdb.com/name/nm0868219/"
-            }
-        ]
+        "duration": "PT1H58M"
     },
     {
         "type": "Movie",
         "name": "Indiana Jones and the Last Crusade",
         "url": "https://www.imdb.com/tt0097576/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 810167,
             "bestRating": 10,
@@ -3720,14 +2854,7 @@
             "Adventure"
         ],
         "datePublished": "1989-05-24",
-        "keywords": "holy grail,father son relationship,indiana jones character,revolver,fascism",
-        "duration": "PT2H7M",
-        "director": [
-            {
-                "name": "Steven Spielberg",
-                "url": "https://www.imdb.com/name/nm0000229/"
-            }
-        ]
+        "duration": "PT2H7M"
     },
     {
         "type": "Movie",
@@ -3747,14 +2874,7 @@
             "History"
         ],
         "datePublished": "2005-04-08",
-        "keywords": "bunker,adolf hitler,nazi germany,suicide,world war two",
-        "duration": "PT2H36M",
-        "director": [
-            {
-                "name": "Oliver Hirschbiegel",
-                "url": "https://www.imdb.com/name/nm0386570/"
-            }
-        ]
+        "duration": "PT2H36M"
     },
     {
         "status": 404,
@@ -3781,18 +2901,7 @@
             "Fantasy"
         ],
         "datePublished": "1975-05-25",
-        "keywords": "killer rabbit,monty python,holy grail,breaking the fourth wall,arthurian legend",
-        "duration": "PT1H31M",
-        "director": [
-            {
-                "name": "Terry Gilliam",
-                "url": "https://www.imdb.com/name/nm0000416/"
-            },
-            {
-                "name": "Terry Jones",
-                "url": "https://www.imdb.com/name/nm0001402/"
-            }
-        ]
+        "duration": "PT1H31M"
     },
     {
         "type": "Movie",
@@ -3813,14 +2922,7 @@
             "Romance"
         ],
         "datePublished": "1959-03-19",
-        "keywords": "sex comedy,comedy of errors,1920s,disguise,cross dressing",
-        "duration": "PT2H1M",
-        "director": [
-            {
-                "name": "Billy Wilder",
-                "url": "https://www.imdb.com/name/nm0000697/"
-            }
-        ]
+        "duration": "PT2H1M"
     },
     {
         "type": "Movie",
@@ -3840,14 +2942,7 @@
             "Drama"
         ],
         "datePublished": "1980-10-10",
-        "keywords": "dignity,disability,human exploitation,hospital,psychological torture",
-        "duration": "PT2H4M",
-        "director": [
-            {
-                "name": "David Lynch",
-                "url": "https://www.imdb.com/name/nm0000186/"
-            }
-        ]
+        "duration": "PT2H4M"
     },
     {
         "type": "Movie",
@@ -3867,14 +2962,7 @@
             "Romance"
         ],
         "datePublished": "2010-05-21",
-        "keywords": "soccer game,argentina,internal conflict,photograph,alcohol",
-        "duration": "PT2H9M",
-        "director": [
-            {
-                "name": "Juan Jos\u00e9 Campanella",
-                "url": "https://www.imdb.com/name/nm0002728/"
-            }
-        ]
+        "duration": "PT2H9M"
     },
     {
         "type": "Movie",
@@ -3894,14 +2982,7 @@
             "War"
         ],
         "datePublished": "1985-06-01",
-        "keywords": "nihilism,samurai,castle,sibling rivalry,battle",
-        "duration": "PT2H40M",
-        "director": [
-            {
-                "name": "Akira Kurosawa",
-                "url": "https://www.imdb.com/name/nm0000041/"
-            }
-        ]
+        "duration": "PT2H40M"
     },
     {
         "type": "Movie",
@@ -3920,20 +3001,14 @@
             "Western"
         ],
         "datePublished": "1967-05-10",
-        "keywords": "wild west,bounty hunter,rape,mexico,gun shooting",
-        "duration": "PT2H12M",
-        "director": [
-            {
-                "name": "Sergio Leone",
-                "url": "https://www.imdb.com/name/nm0001466/"
-            }
-        ]
+        "duration": "PT2H12M"
     },
     {
         "type": "Movie",
         "name": "The Treasure of the Sierra Madre",
         "url": "https://www.imdb.com/tt0040897/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 132318,
             "bestRating": 10,
@@ -3947,14 +3022,7 @@
             "Western"
         ],
         "datePublished": "1948-01-24",
-        "keywords": "mexico,gold,expatriate,beggar,gold digger",
-        "duration": "PT2H6M",
-        "director": [
-            {
-                "name": "John Huston",
-                "url": "https://www.imdb.com/name/nm0001379/"
-            }
-        ]
+        "duration": "PT2H6M"
     },
     {
         "type": "Movie",
@@ -3974,14 +3042,7 @@
             "Mystery"
         ],
         "datePublished": "1951-12-26",
-        "keywords": "unreliable narration,contradictory accounts,multiple perspectives,story told from different perspectives,medium",
-        "duration": "PT1H28M",
-        "director": [
-            {
-                "name": "Akira Kurosawa",
-                "url": "https://www.imdb.com/name/nm0000041/"
-            }
-        ]
+        "duration": "PT1H28M"
     },
     {
         "type": "Movie",
@@ -4000,41 +3061,13 @@
             "Drama"
         ],
         "datePublished": "1950-10-27",
-        "keywords": "theater,scheming woman,social climber,social manipulation,psychological manipulation",
-        "duration": "PT2H18M",
-        "director": [
-            {
-                "name": "Joseph L. Mankiewicz",
-                "url": "https://www.imdb.com/name/nm0000581/"
-            }
-        ]
+        "duration": "PT2H18M"
     },
     {
-        "type": "Movie",
-        "name": "Dial M for Murder",
-        "url": "https://www.imdb.com/tt0046912/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "description": null,
-        "rating": {
-            "ratingCount": 188585,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.2
-        },
-        "contentRating": "PG",
-        "genre": [
-            "Crime",
-            "Thriller"
-        ],
-        "datePublished": "1954-05-29",
-        "keywords": "blackmail,key,wrongful conviction,capital punishment,framed for murder",
-        "duration": "PT1H45M",
-        "director": [
-            {
-                "name": "Alfred Hitchcock",
-                "url": "https://www.imdb.com/name/nm0000033/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -4054,18 +3087,7 @@
             "Comedy"
         ],
         "datePublished": "2019-11-15",
-        "keywords": "christmas,santa,friendship,forest,snow adventure",
-        "duration": "PT1H36M",
-        "director": [
-            {
-                "name": "Sergio Pablos",
-                "url": "https://www.imdb.com/name/nm0655053/"
-            },
-            {
-                "name": "Carlos Mart\u00ednez L\u00f3pez",
-                "url": "https://www.imdb.com/name/nm3582089/"
-            }
-        ]
+        "duration": "PT1H36M"
     },
     {
         "type": "Movie",
@@ -4085,14 +3107,7 @@
             "Thriller"
         ],
         "datePublished": "1961-09-13",
-        "keywords": "samurai,gang war,tough guy,revolver,bodyguard",
-        "duration": "PT1H50M",
-        "director": [
-            {
-                "name": "Akira Kurosawa",
-                "url": "https://www.imdb.com/name/nm0000041/"
-            }
-        ]
+        "duration": "PT1H50M"
     },
     {
         "type": "Movie",
@@ -4112,14 +3127,7 @@
             "Drama"
         ],
         "datePublished": "2024-03-29",
-        "keywords": "oil,oil company,village,fight,nitroglycerin",
-        "duration": "PT1H44M",
-        "director": [
-            {
-                "name": "Julien Leclercq",
-                "url": "https://www.imdb.com/name/nm2182866/"
-            }
-        ]
+        "duration": "PT1H44M"
     },
     {
         "type": "Movie",
@@ -4140,14 +3148,7 @@
             "Sport"
         ],
         "datePublished": "1999-01-22",
-        "keywords": "lost shoe,tehran iran,brother sister relationship,slow motion scene,race",
-        "duration": "PT1H29M",
-        "director": [
-            {
-                "name": "Majid Majidi",
-                "url": "https://www.imdb.com/name/nm0006498/"
-            }
-        ]
+        "duration": "PT1H29M"
     },
     {
         "type": "Movie",
@@ -4167,14 +3168,7 @@
             "Family"
         ],
         "datePublished": "1984-06-22",
-        "keywords": "master apprentice relationship,fight,paint,martial arts,karate student",
-        "duration": "PT2H6M",
-        "director": [
-            {
-                "name": "John G. Avildsen",
-                "url": "https://www.imdb.com/name/nm0000814/"
-            }
-        ]
+        "duration": "PT2H6M"
     },
     {
         "status": 404,
@@ -4199,14 +3193,7 @@
             "Family"
         ],
         "datePublished": "2005-11-18",
-        "keywords": "village,grandfather grandson relationship,father son relationship,right wing,right winger",
-        "duration": "PT1H52M",
-        "director": [
-            {
-                "name": "\u00c7agan Irmak",
-                "url": "https://www.imdb.com/name/nm1463981/"
-            }
-        ]
+        "duration": "PT1H52M"
     },
     {
         "type": "Movie",
@@ -4227,21 +3214,13 @@
             "Sci-Fi"
         ],
         "datePublished": "2015-05-15",
-        "keywords": "post apocalypse,desert,car chase,escape,chase",
-        "duration": "PT2H",
-        "director": [
-            {
-                "name": "George Miller",
-                "url": "https://www.imdb.com/name/nm0004306/"
-            }
-        ]
+        "duration": "PT2H"
     },
     {
         "type": "Movie",
         "name": "Prisoners",
         "url": "https://www.imdb.com/tt1392214/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 807970,
             "bestRating": 10,
@@ -4255,20 +3234,27 @@
             "Mystery"
         ],
         "datePublished": "2013-09-20",
-        "keywords": "child abduction,sex offender,vigilante justice,police,child kidnapping",
-        "duration": "PT2H33M",
-        "director": [
-            {
-                "name": "Denis Villeneuve",
-                "url": "https://www.imdb.com/name/nm0898288/"
-            }
-        ]
+        "duration": "PT2H33M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Catch Me If You Can",
+        "url": "https://www.imdb.com/tt0264464/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+        "rating": {
+            "ratingCount": 1093456,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.1
+        },
+        "contentRating": "PG-13",
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "datePublished": "2002-12-25",
+        "duration": "PT2H21M"
     },
     {
         "type": "Movie",
@@ -4289,21 +3275,13 @@
             "Fantasy"
         ],
         "datePublished": "2003-07-09",
-        "keywords": "pirate,undead,captain jack sparrow character,joshamee gibbs character,captain hector barbossa character",
-        "duration": "PT2H23M",
-        "director": [
-            {
-                "name": "Gore Verbinski",
-                "url": "https://www.imdb.com/name/nm0893659/"
-            }
-        ]
+        "duration": "PT2H23M"
     },
     {
         "type": "Movie",
         "name": "Gone Girl",
         "url": "https://www.imdb.com/tt2267998/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 1065849,
             "bestRating": 10,
@@ -4317,14 +3295,7 @@
             "Thriller"
         ],
         "datePublished": "2014-10-03",
-        "keywords": "missing person,disappearance,murder suspect,husband wife relationship,based on novel",
-        "duration": "PT2H29M",
-        "director": [
-            {
-                "name": "David Fincher",
-                "url": "https://www.imdb.com/name/nm0000399/"
-            }
-        ]
+        "duration": "PT2H29M"
     },
     {
         "type": "Movie",
@@ -4344,14 +3315,7 @@
             "Mystery"
         ],
         "datePublished": "2017-10-06",
-        "keywords": "environmental damage,future noir,memory implant,detective,police detective",
-        "duration": "PT2H44M",
-        "director": [
-            {
-                "name": "Denis Villeneuve",
-                "url": "https://www.imdb.com/name/nm0898288/"
-            }
-        ]
+        "duration": "PT2H44M"
     },
     {
         "type": "Movie",
@@ -4371,20 +3335,7 @@
             "Drama"
         ],
         "datePublished": "1986-08-22",
-        "keywords": "camping,coming of age,1950s,on the road,friendship",
-        "duration": "PT1H29M",
-        "director": [
-            {
-                "name": "Rob Reiner",
-                "url": "https://www.imdb.com/name/nm0001661/"
-            }
-        ]
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "duration": "PT1H29M"
     },
     {
         "status": 404,
@@ -4394,57 +3345,34 @@
     },
     {
         "type": "Movie",
-        "name": "Ford v Ferrari",
-        "url": "https://www.imdb.com/tt1950186/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg",
+        "name": "The Help",
+        "url": "https://www.imdb.com/tt1454029/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+        "description": null,
         "rating": {
-            "ratingCount": 472112,
+            "ratingCount": 492075,
             "bestRating": 10,
             "worstRating": 1,
             "ratingValue": 8.1
         },
         "contentRating": "PG-13",
         "genre": [
-            "Action",
-            "Biography",
             "Drama"
         ],
-        "datePublished": "2019-11-15",
-        "keywords": "based on true story,car racing,24 hours le mans race,ford motor company,ken miles character",
-        "duration": "PT2H32M",
-        "director": [
-            {
-                "name": "James Mangold",
-                "url": "https://www.imdb.com/name/nm0003506/"
-            }
-        ]
+        "datePublished": "2011-08-10",
+        "duration": "PT2H26M"
     },
     {
-        "type": "Movie",
-        "name": "Logan",
-        "url": "https://www.imdb.com/tt3315342/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "rating": {
-            "ratingCount": 829857,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.1
-        },
-        "contentRating": "R",
-        "genre": [
-            "Action",
-            "Drama",
-            "Sci-Fi"
-        ],
-        "datePublished": "2017-03-03",
-        "keywords": "mutant,superhero,north dakota,feral child,death of protagonist",
-        "duration": "PT2H17M",
-        "director": [
-            {
-                "name": "James Mangold",
-                "url": "https://www.imdb.com/name/nm0003506/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
+    },
+    {
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -4464,25 +3392,13 @@
             "Crime"
         ],
         "datePublished": "1998-03-06",
-        "keywords": "rug,mistaken identity,bowling alley,death of friend,nihilism",
-        "duration": "PT1H57M",
-        "director": [
-            {
-                "name": "Joel Coen",
-                "url": "https://www.imdb.com/name/nm0001054/"
-            },
-            {
-                "name": "Ethan Coen",
-                "url": "https://www.imdb.com/name/nm0001053/"
-            }
-        ]
+        "duration": "PT1H57M"
     },
     {
         "type": "Movie",
         "name": "Ratatouille",
         "url": "https://www.imdb.com/tt0382932/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 823185,
             "bestRating": 10,
@@ -4496,25 +3412,13 @@
             "Comedy"
         ],
         "datePublished": "2007-06-27",
-        "keywords": "rat,remy the rat character,chef,cooking,ratatouille",
-        "duration": "PT1H51M",
-        "director": [
-            {
-                "name": "Brad Bird",
-                "url": "https://www.imdb.com/name/nm0083348/"
-            },
-            {
-                "name": "Jan Pinkava",
-                "url": "https://www.imdb.com/name/nm0684342/"
-            }
-        ]
+        "duration": "PT1H51M"
     },
     {
         "type": "Movie",
         "name": "Dead Poets Society",
         "url": "https://www.imdb.com/tt0097165/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-        "description": null,
         "rating": {
             "ratingCount": 544760,
             "bestRating": 10,
@@ -4527,14 +3431,7 @@
             "Drama"
         ],
         "datePublished": "1989-06-09",
-        "keywords": "education,suicide,free thinking,puberty,anti conformity",
-        "duration": "PT2H8M",
-        "director": [
-            {
-                "name": "Peter Weir",
-                "url": "https://www.imdb.com/name/nm0001837/"
-            }
-        ]
+        "duration": "PT2H8M"
     },
     {
         "type": "Movie",
@@ -4555,20 +3452,27 @@
             "Sci-Fi"
         ],
         "datePublished": "1984-10-26",
-        "keywords": "time travel,cyborg,loss of loved one,robotics,future war",
-        "duration": "PT1H47M",
-        "director": [
-            {
-                "name": "James Cameron",
-                "url": "https://www.imdb.com/name/nm0000116/"
-            }
-        ]
+        "duration": "PT1H47M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Hacksaw Ridge",
+        "url": "https://www.imdb.com/tt2119532/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+        "rating": {
+            "ratingCount": 592889,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.1
+        },
+        "contentRating": "R",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "datePublished": "2016-11-04",
+        "duration": "PT2H19M"
     },
     {
         "type": "Movie",
@@ -4589,14 +3493,7 @@
             "Drama"
         ],
         "datePublished": "2007-10-19",
-        "keywords": "wilderness,alaska,death of protagonist,self discovery,based on true story",
-        "duration": "PT2H28M",
-        "director": [
-            {
-                "name": "Sean Penn",
-                "url": "https://www.imdb.com/name/nm0000576/"
-            }
-        ]
+        "duration": "PT2H28M"
     },
     {
         "type": "Movie",
@@ -4616,14 +3513,7 @@
             "Thriller"
         ],
         "datePublished": "2017-09-02",
-        "keywords": "lesbianism,female nudity,lesbian sex,repeated scene from a different perspective,erotic book",
-        "duration": "PT2H25M",
-        "director": [
-            {
-                "name": "Park Chan-wook",
-                "url": "https://www.imdb.com/name/nm0661791/"
-            }
-        ]
+        "duration": "PT2H25M"
     },
     {
         "type": "Movie",
@@ -4643,14 +3533,7 @@
             "Family"
         ],
         "datePublished": "1965-04-01",
-        "keywords": "third reich,stepmother,singing family,nazi,nazi flag",
-        "duration": "PT2H52M",
-        "director": [
-            {
-                "name": "Robert Wise",
-                "url": "https://www.imdb.com/name/nm0936404/"
-            }
-        ]
+        "duration": "PT2H52M"
     },
     {
         "type": "Movie",
@@ -4671,14 +3554,7 @@
             "Crime"
         ],
         "datePublished": "2014-03-28",
-        "keywords": "hotel,lobby boy,painting,first person narration,mentor protege relationship",
-        "duration": "PT1H39M",
-        "director": [
-            {
-                "name": "Wes Anderson",
-                "url": "https://www.imdb.com/name/nm0027572/"
-            }
-        ]
+        "duration": "PT1H39M"
     },
     {
         "type": "Movie",
@@ -4698,14 +3574,7 @@
             "Sport"
         ],
         "datePublished": "2011-09-09",
-        "keywords": "brother brother relationship,father son relationship,tournament,martial arts tournament,mixed martial arts",
-        "duration": "PT2H20M",
-        "director": [
-            {
-                "name": "Gavin O&apos;Connor",
-                "url": "https://www.imdb.com/name/nm0640334/"
-            }
-        ]
+        "duration": "PT2H20M"
     },
     {
         "type": "Movie",
@@ -4725,14 +3594,7 @@
             "History"
         ],
         "datePublished": "2013-11-08",
-        "keywords": "kidnapping,racism,separation from family,torture,whipping",
-        "duration": "PT2H14M",
-        "director": [
-            {
-                "name": "Steve McQueen",
-                "url": "https://www.imdb.com/name/nm2588606/"
-            }
-        ]
+        "duration": "PT2H14M"
     },
     {
         "type": "Movie",
@@ -4753,14 +3615,7 @@
             "Drama"
         ],
         "datePublished": "2017-12-01",
-        "keywords": "billboard,police brutality,small town,death of daughter,ambiguous ending",
-        "duration": "PT1H55M",
-        "director": [
-            {
-                "name": "Martin McDonagh",
-                "url": "https://www.imdb.com/name/nm1732981/"
-            }
-        ]
+        "duration": "PT1H55M"
     },
     {
         "type": "Movie",
@@ -4780,14 +3635,7 @@
             "Sport"
         ],
         "datePublished": "1976-12-03",
-        "keywords": "famous score,fist,boxing,rocky balboa character,low budget film",
-        "duration": "PT2H",
-        "director": [
-            {
-                "name": "John G. Avildsen",
-                "url": "https://www.imdb.com/name/nm0000814/"
-            }
-        ]
+        "duration": "PT2H"
     },
     {
         "type": "Movie",
@@ -4807,14 +3655,7 @@
             "Fantasy"
         ],
         "datePublished": "2011-07-15",
-        "keywords": "friendship,snake,ginny weasley character,lucius malfoy character,hermione granger character",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "David Yates",
-                "url": "https://www.imdb.com/name/nm0946734/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
@@ -4833,14 +3674,7 @@
             "Drama"
         ],
         "datePublished": "1996-08-09",
-        "keywords": "filthy toilet,scotland,male nudity,male frontal nudity,scottish",
-        "duration": "PT1H33M",
-        "director": [
-            {
-                "name": "Danny Boyle",
-                "url": "https://www.imdb.com/name/nm0000965/"
-            }
-        ]
+        "duration": "PT1H33M"
     },
     {
         "status": 404,
@@ -4872,18 +3706,7 @@
             "Fantasy"
         ],
         "datePublished": "1939-08-25",
-        "keywords": "witch,tornado,wizard of oz,wizard,kansas",
-        "duration": "PT1H42M",
-        "director": [
-            {
-                "name": "Victor Fleming",
-                "url": "https://www.imdb.com/name/nm0281808/"
-            },
-            {
-                "name": "King Vidor",
-                "url": "https://www.imdb.com/name/nm0896542/"
-            }
-        ]
+        "duration": "PT1H42M"
     },
     {
         "type": "Movie",
@@ -4903,14 +3726,7 @@
             "Comedy"
         ],
         "datePublished": "2024-06-14",
-        "keywords": "sequel,second part,emotion,memory,cgi animation",
-        "duration": null,
-        "director": [
-            {
-                "name": "Kelsey Mann",
-                "url": "https://www.imdb.com/name/nm1626375/"
-            }
-        ]
+        "duration": null
     },
     {
         "type": "Movie",
@@ -4930,14 +3746,7 @@
             "Mystery"
         ],
         "datePublished": "2003-05-02",
-        "keywords": "1980s,neo noir,police,anti hero,criminal investigation",
-        "duration": "PT2H12M",
-        "director": [
-            {
-                "name": "Bong Joon Ho",
-                "url": "https://www.imdb.com/name/nm0094435/"
-            }
-        ]
+        "duration": "PT2H12M"
     },
     {
         "type": "Movie",
@@ -4957,14 +3766,7 @@
             "War"
         ],
         "datePublished": "1987-02-06",
-        "keywords": "vietnam war,gore,american war crimes,combat fatigue,tropics",
-        "duration": "PT2H",
-        "director": [
-            {
-                "name": "Oliver Stone",
-                "url": "https://www.imdb.com/name/nm0000231/"
-            }
-        ]
+        "duration": "PT2H"
     },
     {
         "type": "Movie",
@@ -4985,20 +3787,14 @@
             "Thriller"
         ],
         "datePublished": "1974-06-20",
-        "keywords": "neo noir,private detective,detective,femme fatale,water rights",
-        "duration": "PT2H10M",
-        "director": [
-            {
-                "name": "Roman Polanski",
-                "url": "https://www.imdb.com/name/nm0000591/"
-            }
-        ]
+        "duration": "PT2H10M"
     },
     {
         "type": "Movie",
         "name": "Room",
         "url": "https://www.imdb.com/tt3170832/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 449628,
             "bestRating": 10,
@@ -5011,14 +3807,7 @@
             "Thriller"
         ],
         "datePublished": "2016-01-22",
-        "keywords": "escape,kidnapping,mother son relationship,unlawful confinement,locked in a room",
-        "duration": "PT1H58M",
-        "director": [
-            {
-                "name": "Lenny Abrahamson",
-                "url": "https://www.imdb.com/name/nm1049433/"
-            }
-        ]
+        "duration": "PT1H58M"
     },
     {
         "status": 404,
@@ -5045,30 +3834,47 @@
             "Adventure"
         ],
         "datePublished": "2010-03-26",
-        "keywords": "dragon,viking,father son relationship,village,dreamworks",
-        "duration": "PT1H38M",
-        "director": [
-            {
-                "name": "Dean DeBlois",
-                "url": "https://www.imdb.com/name/nm0213450/"
-            },
-            {
-                "name": "Chris Sanders",
-                "url": "https://www.imdb.com/name/nm0761498/"
-            }
-        ]
+        "duration": "PT1H38M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Rush",
+        "url": "https://www.imdb.com/tt1979320/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "rating": {
+            "ratingCount": 512798,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.1
+        },
+        "contentRating": "R",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "datePublished": "2013-09-27",
+        "duration": "PT2H3M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "Before Sunrise",
+        "url": "https://www.imdb.com/tt0112471/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 338794,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.1
+        },
+        "contentRating": "R",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "datePublished": "1995-01-27",
+        "duration": "PT1H41M"
     },
     {
         "type": "Movie",
@@ -5087,14 +3893,7 @@
             "War"
         ],
         "datePublished": "1979-02-23",
-        "keywords": "russian roulette,vietnam war veteran,prisoner of war,shooting oneself in the head,friendship between men",
-        "duration": "PT3H3M",
-        "director": [
-            {
-                "name": "Michael Cimino",
-                "url": "https://www.imdb.com/name/nm0001047/"
-            }
-        ]
+        "duration": "PT3H3M"
     },
     {
         "type": "Movie",
@@ -5114,14 +3913,7 @@
             "Drama"
         ],
         "datePublished": "2015-11-20",
-        "keywords": "child molestation,investigation,sexual abuse,catholic church,cover up",
-        "duration": "PT2H9M",
-        "director": [
-            {
-                "name": "Tom McCarthy",
-                "url": "https://www.imdb.com/name/nm0565336/"
-            }
-        ]
+        "duration": "PT2H9M"
     },
     {
         "type": "Movie",
@@ -5142,40 +3934,13 @@
             "Crime"
         ],
         "datePublished": "1998-08-28",
-        "keywords": "gangster,dark comedy,violence,united kingdom,shotgun",
-        "duration": "PT1H47M",
-        "director": [
-            {
-                "name": "Guy Ritchie",
-                "url": "https://www.imdb.com/name/nm0005363/"
-            }
-        ]
+        "duration": "PT1H47M"
     },
     {
-        "type": "Movie",
-        "name": "Million Dollar Baby",
-        "url": "https://www.imdb.com/tt0405159/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
-        "rating": {
-            "ratingCount": 721067,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.1
-        },
-        "contentRating": "PG-13",
-        "genre": [
-            "Drama",
-            "Sport"
-        ],
-        "datePublished": "2005-01-28",
-        "keywords": "boxing,determination,women boxing,boxing trainer,strong female character",
-        "duration": "PT2H12M",
-        "director": [
-            {
-                "name": "Clint Eastwood",
-                "url": "https://www.imdb.com/name/nm0000142/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -5194,14 +3959,7 @@
             "Drama"
         ],
         "datePublished": "2009-01-09",
-        "keywords": "widower,gang,teenager,street gang,gang rape",
-        "duration": "PT1H56M",
-        "director": [
-            {
-                "name": "Clint Eastwood",
-                "url": "https://www.imdb.com/name/nm0000142/"
-            }
-        ]
+        "duration": "PT1H56M"
     },
     {
         "type": "Movie",
@@ -5221,14 +3979,7 @@
             "Sport"
         ],
         "datePublished": "1980-12-19",
-        "keywords": "jealousy,new york city,dysfunctional family,marriage crisis,domestic violence",
-        "duration": "PT2H9M",
-        "director": [
-            {
-                "name": "Martin Scorsese",
-                "url": "https://www.imdb.com/name/nm0000217/"
-            }
-        ]
+        "duration": "PT2H9M"
     },
     {
         "type": "Movie",
@@ -5248,14 +3999,7 @@
             "War"
         ],
         "datePublished": "1975-12-18",
-        "keywords": "18th century,based on novel,nobility,gambler,rags to riches back to rags",
-        "duration": "PT3H5M",
-        "director": [
-            {
-                "name": "Stanley Kubrick",
-                "url": "https://www.imdb.com/name/nm0000040/"
-            }
-        ]
+        "duration": "PT3H5M"
     },
     {
         "type": "Movie",
@@ -5275,20 +4019,14 @@
             "Family"
         ],
         "datePublished": "1990-07-13",
-        "keywords": "sister sister relationship,studio ghibli,father daughter relationship,sick mother,child protagonist",
-        "duration": "PT1H26M",
-        "director": [
-            {
-                "name": "Hayao Miyazaki",
-                "url": "https://www.imdb.com/name/nm0594503/"
-            }
-        ]
+        "duration": "PT1H26M"
     },
     {
         "type": "Movie",
         "name": "La haine",
         "url": "https://www.imdb.com/tt0113247/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 196040,
             "bestRating": 10,
@@ -5301,14 +4039,7 @@
             "Drama"
         ],
         "datePublished": "1996-02-23",
-        "keywords": "gun,ghetto,trying to steal a car,missed last train,riot",
-        "duration": "PT1H38M",
-        "director": [
-            {
-                "name": "Mathieu Kassovitz",
-                "url": "https://www.imdb.com/name/nm0440913/"
-            }
-        ]
+        "duration": "PT1H38M"
     },
     {
         "type": "Movie",
@@ -5328,20 +4059,28 @@
             "Drama"
         ],
         "datePublished": "1959-11-18",
-        "keywords": "talking to a horse,leprosy,roman empire,false accusation,whip",
-        "duration": "PT3H32M",
-        "director": [
-            {
-                "name": "William Wyler",
-                "url": "https://www.imdb.com/name/nm0943758/"
-            }
-        ]
+        "duration": "PT3H32M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
+        "type": "Movie",
+        "name": "The Iron Giant",
+        "url": "https://www.imdb.com/tt0129167/",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+        "description": null,
+        "rating": {
+            "ratingCount": 226967,
+            "bestRating": 10,
+            "worstRating": 1,
+            "ratingValue": 8.1
+        },
+        "contentRating": "PG",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "datePublished": "1999-08-06",
+        "duration": "PT1H26M"
     },
     {
         "type": "Movie",
@@ -5360,14 +4099,7 @@
             "Drama"
         ],
         "datePublished": "2010-10-01",
-        "keywords": "facebook,based on real person,entrepreneur,young entrepreneur,intellectual property",
-        "duration": "PT2H",
-        "director": [
-            {
-                "name": "David Fincher",
-                "url": "https://www.imdb.com/name/nm0000399/"
-            }
-        ]
+        "duration": "PT2H"
     },
     {
         "type": "Movie",
@@ -5387,14 +4119,7 @@
             "Family"
         ],
         "datePublished": "2010-03-12",
-        "keywords": "dog,japanese,loyalty,waiting,human animal relationship",
-        "duration": "PT1H33M",
-        "director": [
-            {
-                "name": "Lasse Hallstr\u00f6m",
-                "url": "https://www.imdb.com/name/nm0002120/"
-            }
-        ]
+        "duration": "PT1H33M"
     },
     {
         "type": "Movie",
@@ -5414,14 +4139,7 @@
             "Thriller"
         ],
         "datePublished": "2014-08-21",
-        "keywords": "anthology film,suicide by airplane crash,revenge,wedding party,road rage",
-        "duration": "PT2H2M",
-        "director": [
-            {
-                "name": "Dami\u00e1n Szifron",
-                "url": "https://www.imdb.com/name/nm1167933/"
-            }
-        ]
+        "duration": "PT2H2M"
     },
     {
         "status": 404,
@@ -5447,14 +4165,7 @@
             "Romance"
         ],
         "datePublished": "2020-10-21",
-        "keywords": "widower,mansion,family secret,husband wife relationship,hotel",
-        "duration": "PT2H3M",
-        "director": [
-            {
-                "name": "Ben Wheatley",
-                "url": "https://www.imdb.com/name/nm1296554/"
-            }
-        ]
+        "duration": "PT2H3M"
     },
     {
         "type": "Movie",
@@ -5473,14 +4184,7 @@
             "Fantasy"
         ],
         "datePublished": "1958-10-13",
-        "keywords": "chess,death,knight,death personified,church",
-        "duration": "PT1H36M",
-        "director": [
-            {
-                "name": "Ingmar Bergman",
-                "url": "https://www.imdb.com/name/nm0000005/"
-            }
-        ]
+        "duration": "PT1H36M"
     },
     {
         "type": "Movie",
@@ -5501,14 +4205,7 @@
             "Thriller"
         ],
         "datePublished": "1954-06-22",
-        "keywords": "organized crime,dockworker,murder,longshoreman,waterfront",
-        "duration": "PT1H48M",
-        "director": [
-            {
-                "name": "Elia Kazan",
-                "url": "https://www.imdb.com/name/nm0001415/"
-            }
-        ]
+        "duration": "PT1H48M"
     },
     {
         "type": "Movie",
@@ -5528,41 +4225,13 @@
             "Romance"
         ],
         "datePublished": "2004-07-30",
-        "keywords": "dialogue driven,brief encounter,sequel,enduring relationship,ambiguous ending",
-        "duration": "PT1H20M",
-        "director": [
-            {
-                "name": "Richard Linklater",
-                "url": "https://www.imdb.com/name/nm0000500/"
-            }
-        ]
+        "duration": "PT1H20M"
     },
     {
-        "type": "Movie",
-        "name": "The Bridge on the River Kwai",
-        "url": "https://www.imdb.com/tt0050212/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
-        "rating": {
-            "ratingCount": 233073,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.1
-        },
-        "contentRating": "PG",
-        "genre": [
-            "Adventure",
-            "Drama",
-            "War"
-        ],
-        "datePublished": "1957-12-14",
-        "keywords": "bridge,british soldier,japanese soldier,brutality,bridge construction",
-        "duration": "PT2H41M",
-        "director": [
-            {
-                "name": "David Lean",
-                "url": "https://www.imdb.com/name/nm0000180/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -5582,14 +4251,7 @@
             "Drama"
         ],
         "datePublished": "1994-02-25",
-        "keywords": "father son relationship,based on true story,male nudity,ireland,prison",
-        "duration": "PT2H13M",
-        "director": [
-            {
-                "name": "Jim Sheridan",
-                "url": "https://www.imdb.com/name/nm0006487/"
-            }
-        ]
+        "duration": "PT2H13M"
     },
     {
         "type": "Movie",
@@ -5609,14 +4271,7 @@
             "Thriller"
         ],
         "datePublished": "2001-04-13",
-        "keywords": "multiple perspectives,mexico city,dog fight,nonlinear timeline,interlinked stories",
-        "duration": "PT2H34M",
-        "director": [
-            {
-                "name": "Alejandro G. I\u00f1\u00e1rritu",
-                "url": "https://www.imdb.com/name/nm0327944/"
-            }
-        ]
+        "duration": "PT2H34M"
     },
     {
         "type": "Movie",
@@ -5636,41 +4291,13 @@
             "Romance"
         ],
         "datePublished": "1934-02-22",
-        "keywords": "road movie,bus,reporter,spoiled brat,road trip",
-        "duration": "PT1H45M",
-        "director": [
-            {
-                "name": "Frank Capra",
-                "url": "https://www.imdb.com/name/nm0001008/"
-            }
-        ]
+        "duration": "PT1H45M"
     },
     {
-        "type": "Movie",
-        "name": "Hotel Rwanda",
-        "url": "https://www.imdb.com/tt0395169/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "rating": {
-            "ratingCount": 371746,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.1
-        },
-        "contentRating": "PG-13",
-        "genre": [
-            "Biography",
-            "Drama",
-            "History"
-        ],
-        "datePublished": "2005-02-04",
-        "keywords": "rwanda,brutality,hatred,mass killing,female rear nudity",
-        "duration": "PT2H1M",
-        "director": [
-            {
-                "name": "Terry George",
-                "url": "https://www.imdb.com/name/nm0313623/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -5690,14 +4317,7 @@
             "Thriller"
         ],
         "datePublished": "1950-02-01",
-        "keywords": "post world war two,faking one&apos;s death,british noir,american abroad,briton abroad",
-        "duration": "PT1H33M",
-        "director": [
-            {
-                "name": "Carol Reed",
-                "url": "https://www.imdb.com/name/nm0715346/"
-            }
-        ]
+        "duration": "PT1H33M"
     },
     {
         "type": "Movie",
@@ -5716,20 +4336,14 @@
             "Drama"
         ],
         "datePublished": "1959-11-16",
-        "keywords": "coming of age,skipping school,mother son relationship,juvenile delinquent,french new wave",
-        "duration": "PT1H39M",
-        "director": [
-            {
-                "name": "Fran\u00e7ois Truffaut",
-                "url": "https://www.imdb.com/name/nm0000076/"
-            }
-        ]
+        "duration": "PT1H39M"
     },
     {
         "type": "Movie",
         "name": "The Best Years of Our Lives",
         "url": "https://www.imdb.com/tt0036868/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 70466,
             "bestRating": 10,
@@ -5743,40 +4357,13 @@
             "War"
         ],
         "datePublished": "1947-05-29",
-        "keywords": "readjusting to civilian life,world war two veteran,banker,speech,bombardier",
-        "duration": "PT2H50M",
-        "director": [
-            {
-                "name": "William Wyler",
-                "url": "https://www.imdb.com/name/nm0943758/"
-            }
-        ]
+        "duration": "PT2H50M"
     },
     {
-        "type": "Movie",
-        "name": "The Grapes of Wrath",
-        "url": "https://www.imdb.com/tt0032551/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "description": null,
-        "rating": {
-            "ratingCount": 99860,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.1
-        },
-        "contentRating": "Approved",
-        "genre": [
-            "Drama"
-        ],
-        "datePublished": "1940-03-15",
-        "keywords": "great depression,based on novel,capitalism,national film registry,bakersfield california",
-        "duration": "PT2H9M",
-        "director": [
-            {
-                "name": "John Ford",
-                "url": "https://www.imdb.com/name/nm0000406/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
@@ -5795,20 +4382,14 @@
             "Drama"
         ],
         "datePublished": "1972-03-13",
-        "keywords": "old man,old woman,deathbed,houseguest,affection",
-        "duration": "PT2H16M",
-        "director": [
-            {
-                "name": "Yasujir\u00f4 Ozu",
-                "url": "https://www.imdb.com/name/nm0654868/"
-            }
-        ]
+        "duration": "PT2H16M"
     },
     {
         "type": "Movie",
         "name": "Mary and Max.",
         "url": "https://www.imdb.com/tt0978762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 186654,
             "bestRating": 10,
@@ -5822,14 +4403,7 @@
             "Drama"
         ],
         "datePublished": "2009-04-09",
-        "keywords": "stop motion,unlikely friendship,friendship,stop motion animation,asperger&apos;s syndrome",
-        "duration": "PT1H32M",
-        "director": [
-            {
-                "name": "Adam Elliot",
-                "url": "https://www.imdb.com/name/nm0254178/"
-            }
-        ]
+        "duration": "PT1H32M"
     },
     {
         "type": "Movie",
@@ -5849,14 +4423,7 @@
             "Romance"
         ],
         "datePublished": "1959-06-22",
-        "keywords": "professor,road movie,nostalgia,dream,swedish summer",
-        "duration": "PT1H31M",
-        "director": [
-            {
-                "name": "Ingmar Bergman",
-                "url": "https://www.imdb.com/name/nm0000005/"
-            }
-        ]
+        "duration": "PT1H31M"
     },
     {
         "type": "Movie",
@@ -5875,13 +4442,7 @@
         ],
         "datePublished": null,
         "keywords": null,
-        "duration": "PT1H57M",
-        "director": [
-            {
-                "name": "Malek Bensma\u00efl",
-                "url": "https://www.imdb.com/name/nm1656176/"
-            }
-        ]
+        "duration": "PT1H57M"
     },
     {
         "status": 404,
@@ -5907,14 +4468,7 @@
             "History"
         ],
         "datePublished": "1928-10-25",
-        "keywords": "trial,close up scene,martyrdom,character name in title,15th century",
-        "duration": "PT1H54M",
-        "director": [
-            {
-                "name": "Carl Theodor Dreyer",
-                "url": "https://www.imdb.com/name/nm0003433/"
-            }
-        ]
+        "duration": "PT1H54M"
     },
     {
         "type": "Movie",
@@ -5934,18 +4488,7 @@
             "Comedy"
         ],
         "datePublished": "1927-01-02",
-        "keywords": "train,confederate army,civil war,national film registry,army",
-        "duration": "PT1H18M",
-        "director": [
-            {
-                "name": "Clyde Bruckman",
-                "url": "https://www.imdb.com/name/nm0115669/"
-            },
-            {
-                "name": "Buster Keaton",
-                "url": "https://www.imdb.com/name/nm0000036/"
-            }
-        ]
+        "duration": "PT1H18M"
     },
     {
         "type": "Movie",
@@ -5965,47 +4508,20 @@
             "War"
         ],
         "datePublished": "1942-03-06",
-        "keywords": "screwball comedy,reference to william shakespeare,beard,world war two,reference to adolf hitler",
-        "duration": "PT1H39M",
-        "director": [
-            {
-                "name": "Ernst Lubitsch",
-                "url": "https://www.imdb.com/name/nm0523932/"
-            }
-        ]
+        "duration": "PT1H39M"
     },
     {
-        "type": "Movie",
-        "name": "The Gold Rush",
-        "url": "https://www.imdb.com/tt0015864/",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODkzNDE4MF5BMl5BanBnXkFtZTgwNDI3NTY2MzE@._V1_.jpg",
-        "rating": {
-            "ratingCount": 118518,
-            "bestRating": 10,
-            "worstRating": 1,
-            "ratingValue": 8.1
-        },
-        "contentRating": "Approved",
-        "genre": [
-            "Adventure",
-            "Comedy",
-            "Drama"
-        ],
-        "datePublished": "1925-08-16",
-        "keywords": "klondike,klondike gold rush,national film registry,1890s,little tramp",
-        "duration": "PT1H35M",
-        "director": [
-            {
-                "name": "Charles Chaplin",
-                "url": "https://www.imdb.com/name/nm0000122/"
-            }
-        ]
+        "status": 404,
+        "message": "No Result Found!",
+        "result_count": 0,
+        "results": []
     },
     {
         "type": "Movie",
         "name": "The Incredibles",
         "url": "https://www.imdb.com/tt0317705/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 807391,
             "bestRating": 10,
@@ -6019,20 +4535,14 @@
             "Adventure"
         ],
         "datePublished": "2004-11-05",
-        "keywords": "superhero family,superhero,non comic book superhero,strong female character,good versus evil",
-        "duration": "PT1H55M",
-        "director": [
-            {
-                "name": "Brad Bird",
-                "url": "https://www.imdb.com/name/nm0083348/"
-            }
-        ]
+        "duration": "PT1H55M"
     },
     {
         "type": "Movie",
         "name": "Dances with Wolves",
         "url": "https://www.imdb.com/tt0099348/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_.jpg",
+        "description": null,
         "rating": {
             "ratingCount": 290156,
             "bestRating": 10,
@@ -6046,14 +4556,7 @@
             "Western"
         ],
         "datePublished": "1990-11-21",
-        "keywords": "friendship,native american,wolf,19th century,frontier",
-        "duration": "PT3H1M",
-        "director": [
-            {
-                "name": "Kevin Costner",
-                "url": "https://www.imdb.com/name/nm0000126/"
-            }
-        ]
+        "duration": "PT3H1M"
     },
     {
         "type": "Movie",
@@ -6073,13 +4576,6 @@
             "Fantasy"
         ],
         "datePublished": "1993-02-12",
-        "keywords": "time loop,groundhog day,existentialism,punxsutawney pennsylvania,weather forecasting",
-        "duration": "PT1H41M",
-        "director": [
-            {
-                "name": "Harold Ramis",
-                "url": "https://www.imdb.com/name/nm0000601/"
-            }
-        ]
+        "duration": "PT1H41M"
     }
 ]

@@ -13,8 +13,7 @@ filename = "data.json"
 if path.isfile(filename) is False:
   raise Exception("File not found")
 
-with open(filename) as fp:
-    jsonObj = json.load(fp)
+jsonObj = []
 
 for movie in movieList:
     res = imdb.get_by_name(movie, tv=False)
@@ -27,6 +26,10 @@ for movie in movieList:
         del data['actor']
     if not (data.get('creator') is None):
         del data['creator']
+    if not (data.get('keywords') is None):
+        del data['keywords']
+    if not (data.get('director') is None):
+        del data['director']
     jsonObj.append(data)
 
 
