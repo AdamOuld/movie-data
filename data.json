@@ -47,7 +47,7 @@
             "worstRating": 1,
             "ratingValue": 9
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Biography",
             "Drama"
@@ -80,7 +80,7 @@
         "name": "The Dark Knight",
         "url": "https://www.imdb.com/tt0468569/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 2866738,
             "bestRating": 10,
@@ -101,7 +101,7 @@
         "name": "Schindler&apos;s List",
         "url": "https://www.imdb.com/tt0108052/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1448611,
             "bestRating": 10,
@@ -161,7 +161,7 @@
         "name": "The Godfather Part II",
         "url": "https://www.imdb.com/tt0071562/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1362322,
             "bestRating": 10,
@@ -258,7 +258,7 @@
         "name": "Forrest Gump",
         "url": "https://www.imdb.com/tt0109830/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 2253381,
             "bestRating": 10,
@@ -278,21 +278,21 @@
         "name": "The Good, the Bad and the Ugly",
         "url": "https://www.imdb.com/tt5083572/",
         "poster": "https://m.media-amazon.com/images/M/MV5BN2M0OTY5M2QtYmU5OC00N2FlLThmOGItNTliNzgxN2JlMDljXkEyXkFqcGdeQXVyNTExMTYyNzA@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 26,
             "bestRating": 10,
             "worstRating": 1,
             "ratingValue": 7.5
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Short",
             "Action",
             "Fantasy"
         ],
         "datePublished": "2015-07-20",
-        "keywords": null,
+        "keywords": "",
         "duration": "PT6M"
     },
     {
@@ -336,17 +336,11 @@
         "duration": "PT2H49M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "One Flew Over the Cuckoo&apos;s Nest",
         "url": "https://www.imdb.com/tt0073486/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1071133,
             "bestRating": 10,
@@ -404,7 +398,7 @@
         "name": "Jai Bhim",
         "url": "https://www.imdb.com/tt15097216/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 216985,
             "bestRating": 10,
@@ -445,7 +439,7 @@
         "name": "Se7en",
         "url": "https://www.imdb.com/tt0114369/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1796048,
             "bestRating": 10,
@@ -482,12 +476,6 @@
         "duration": "PT1H58M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Cidade de Deus",
         "url": "https://www.imdb.com/tt0317248/",
@@ -511,7 +499,7 @@
         "name": "Terminator 2: Judgment Day",
         "url": "https://www.imdb.com/tt0103064/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1172560,
             "bestRating": 10,
@@ -577,7 +565,7 @@
             "worstRating": 1,
             "ratingValue": 8.5
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Short",
             "Action",
@@ -650,7 +638,7 @@
         "name": "Seppuku",
         "url": "https://www.imdb.com/tt0056058/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 68437,
             "bestRating": 10,
@@ -749,7 +737,7 @@
         "name": "Alien",
         "url": "https://www.imdb.com/tt0078748/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 949013,
             "bestRating": 10,
@@ -804,17 +792,11 @@
         "duration": "PT2H10M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "L\u00e9on",
         "url": "https://www.imdb.com/tt0110413/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1243901,
             "bestRating": 10,
@@ -855,7 +837,7 @@
         "name": "The Usual Suspects",
         "url": "https://www.imdb.com/tt0114814/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1144094,
             "bestRating": 10,
@@ -872,17 +854,11 @@
         "duration": "PT1H46M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Pianist",
         "url": "https://www.imdb.com/tt0253474/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 910541,
             "bestRating": 10,
@@ -903,7 +879,7 @@
         "name": "Casablanca",
         "url": "https://www.imdb.com/tt0034583/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 605385,
             "bestRating": 10,
@@ -924,7 +900,7 @@
         "name": "Intouchables",
         "url": "https://www.imdb.com/tt1675434/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 927890,
             "bestRating": 10,
@@ -985,18 +961,18 @@
         "url": "https://www.imdb.com/tt13544442/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZGQ4MmY0ZTktZDBkMy00NzQ2LTg5YjktY2NiMDFjOGZmYWFmXkEyXkFqcGdeQXVyMTE5MTYyNzQ2._V1_.jpg",
         "rating": {
-            "ratingCount": null,
-            "bestRating": null,
-            "worstRating": null,
-            "ratingValue": null
+            "ratingCount": 0,
+            "bestRating": 0,
+            "worstRating": 0,
+            "ratingValue": 0
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Short",
             "Western"
         ],
         "datePublished": "2019-09-01",
-        "keywords": null,
+        "keywords": "",
         "duration": "PT3M"
     },
     {
@@ -1023,7 +999,7 @@
         "name": "Nuovo Cinema Paradiso",
         "url": "https://www.imdb.com/tt0095765/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 282510,
             "bestRating": 10,
@@ -1037,12 +1013,6 @@
         ],
         "datePublished": "1990-02-23",
         "duration": "PT2H54M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -1125,17 +1095,11 @@
         "duration": "PT2H22M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Avengers: Endgame",
         "url": "https://www.imdb.com/tt4154796/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1263233,
             "bestRating": 10,
@@ -1191,12 +1155,6 @@
         "duration": "PT1H53M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Shining",
         "url": "https://www.imdb.com/tt0081505/",
@@ -1220,7 +1178,7 @@
         "name": "Apocalypse Now",
         "url": "https://www.imdb.com/tt0078788/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 709220,
             "bestRating": 10,
@@ -1320,7 +1278,7 @@
         "name": "Amadeus",
         "url": "https://www.imdb.com/tt0086879/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 427385,
             "bestRating": 10,
@@ -1337,24 +1295,18 @@
         "duration": "PT2H40M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Kimi no na wa.",
         "url": "https://www.imdb.com/tt5311514/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 319100,
             "bestRating": 10,
             "worstRating": 1,
             "ratingValue": 8.4
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Animation",
             "Drama",
@@ -1368,7 +1320,7 @@
         "name": "WALL\u00b7E",
         "url": "https://www.imdb.com/tt0910970/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1198785,
             "bestRating": 10,
@@ -1408,7 +1360,7 @@
         "name": "3 Idiots",
         "url": "https://www.imdb.com/tt1187043/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 433672,
             "bestRating": 10,
@@ -1428,21 +1380,21 @@
         "name": "The Lives Of Others",
         "url": "https://www.imdb.com/tt9130566/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjM0M2FmMTUtODNhZC00NzVjLTgyNGMtZTkxZGVhMjEzM2NlXkEyXkFqcGdeQXVyNjI0MTg1MzU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
-            "ratingCount": null,
-            "bestRating": null,
-            "worstRating": null,
-            "ratingValue": null
+            "ratingCount": 0,
+            "bestRating": 0,
+            "worstRating": 0,
+            "ratingValue": 0
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Animation",
             "Short"
         ],
         "datePublished": "2014-06-10",
-        "keywords": null,
-        "duration": null
+        "keywords": "",
+        "duration": ""
     },
     {
         "type": "Movie",
@@ -1506,7 +1458,7 @@
         "name": "Paths of Glory",
         "url": "https://www.imdb.com/tt0050825/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 212009,
             "bestRating": 10,
@@ -1520,12 +1472,6 @@
         ],
         "datePublished": "1957-12-25",
         "duration": "PT1H28M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -1572,7 +1518,7 @@
         "name": "Good Will Hunting",
         "url": "https://www.imdb.com/tt0119217/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1065989,
             "bestRating": 10,
@@ -1612,7 +1558,7 @@
         "name": "Eternal Sunshine of the Spotless Mind",
         "url": "https://www.imdb.com/tt0338013/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1076661,
             "bestRating": 10,
@@ -1633,7 +1579,7 @@
         "name": "American Beauty",
         "url": "https://www.imdb.com/tt0169547/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1209697,
             "bestRating": 10,
@@ -1652,7 +1598,7 @@
         "name": "Heat",
         "url": "https://www.imdb.com/tt0113277/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 718336,
             "bestRating": 10,
@@ -1667,12 +1613,6 @@
         ],
         "datePublished": "1995-12-15",
         "duration": "PT2H50M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -1714,17 +1654,11 @@
         "duration": "PT2H29M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "A Clockwork Orange",
         "url": "https://www.imdb.com/tt0066921/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 880412,
             "bestRating": 10,
@@ -1797,12 +1731,6 @@
         "duration": "PT1H55M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Once Upon a Time in America",
         "url": "https://www.imdb.com/tt0087843/",
@@ -1846,7 +1774,7 @@
         "name": "The Notebook",
         "url": "https://www.imdb.com/tt0332280/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzc3Mzg1OGYtZjc3My00Y2NhLTgyOWUtYjRhMmI4OTkwNDg4XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 619300,
             "bestRating": 10,
@@ -1906,7 +1834,7 @@
         "name": "Lawrence of Arabia",
         "url": "https://www.imdb.com/tt0056172/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 313926,
             "bestRating": 10,
@@ -1947,7 +1875,7 @@
         "name": "Mononoke-hime",
         "url": "https://www.imdb.com/tt0119698/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjM3NGExNDctYmU0Yy00MTJjLThlNTItMjM4NDBjMGRiMmE5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 433037,
             "bestRating": 10,
@@ -1988,7 +1916,7 @@
         "name": "To Kill a Mockingbird",
         "url": "https://www.imdb.com/tt0056592/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 332588,
             "bestRating": 10,
@@ -2043,17 +1971,11 @@
         "duration": "PT1H43M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Metropolis",
         "url": "https://www.imdb.com/tt0017136/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 185302,
             "bestRating": 10,
@@ -2073,7 +1995,7 @@
         "name": "North by Northwest",
         "url": "https://www.imdb.com/tt0053125/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 345721,
             "bestRating": 10,
@@ -2094,7 +2016,7 @@
         "name": "Singin&apos; in the Rain",
         "url": "https://www.imdb.com/tt0045152/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 260373,
             "bestRating": 10,
@@ -2154,7 +2076,7 @@
         "name": "Judgment at Nuremberg",
         "url": "https://www.imdb.com/tt0055031/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 85291,
             "bestRating": 10,
@@ -2174,7 +2096,7 @@
         "name": "Dangal",
         "url": "https://www.imdb.com/tt5074352/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 210047,
             "bestRating": 10,
@@ -2213,7 +2135,7 @@
         "name": "Double Indemnity",
         "url": "https://www.imdb.com/tt0036775/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 167278,
             "bestRating": 10,
@@ -2254,7 +2176,7 @@
         "name": "Ladri di biciclette",
         "url": "https://www.imdb.com/tt0040522/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 174960,
             "bestRating": 10,
@@ -2292,7 +2214,7 @@
         "name": "Poor Things",
         "url": "https://www.imdb.com/tt14230458/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGIyYWMzNjktNDE3MC00YWQyLWEyMmEtN2ZmNzZhZDk3NGJlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 240673,
             "bestRating": 10,
@@ -2313,7 +2235,7 @@
         "name": "Top Gun: Maverick",
         "url": "https://www.imdb.com/tt1745960/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 693931,
             "bestRating": 10,
@@ -2353,7 +2275,7 @@
         "name": "No Country for Old Men",
         "url": "https://www.imdb.com/tt0477348/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1058499,
             "bestRating": 10,
@@ -2414,7 +2336,7 @@
         "name": "Jurassic Park",
         "url": "https://www.imdb.com/tt0107290/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1065497,
             "bestRating": 10,
@@ -2435,7 +2357,7 @@
         "name": "Green Book",
         "url": "https://www.imdb.com/tt6966692/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 569186,
             "bestRating": 10,
@@ -2476,7 +2398,7 @@
         "name": "Taxi Driver",
         "url": "https://www.imdb.com/tt0075314/",
         "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 919149,
             "bestRating": 10,
@@ -2496,7 +2418,7 @@
         "name": "Die Hard",
         "url": "https://www.imdb.com/tt0095016/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 943966,
             "bestRating": 10,
@@ -2535,7 +2457,7 @@
         "name": "Snatch",
         "url": "https://www.imdb.com/tt0208092/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 909703,
             "bestRating": 10,
@@ -2573,7 +2495,7 @@
         "name": "1917",
         "url": "https://www.imdb.com/tt8579674/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 673783,
             "bestRating": 10,
@@ -2594,7 +2516,7 @@
         "name": "The Truman Show",
         "url": "https://www.imdb.com/tt0120382/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1194022,
             "bestRating": 10,
@@ -2608,12 +2530,6 @@
         ],
         "datePublished": "1998-06-05",
         "duration": "PT1H43M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -2760,7 +2676,7 @@
         "name": "Casino",
         "url": "https://www.imdb.com/tt0112641/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 563140,
             "bestRating": 10,
@@ -2780,7 +2696,7 @@
         "name": "V for Vendetta",
         "url": "https://www.imdb.com/tt0434409/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1178268,
             "bestRating": 10,
@@ -2801,7 +2717,7 @@
         "name": "Unforgiven",
         "url": "https://www.imdb.com/tt0105695/",
         "poster": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 435689,
             "bestRating": 10,
@@ -2821,7 +2737,7 @@
         "name": "El laberinto del fauno",
         "url": "https://www.imdb.com/tt0457430/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 702393,
             "bestRating": 10,
@@ -2877,17 +2793,11 @@
         "duration": "PT2H36M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Monty Python and the Holy Grail",
         "url": "https://www.imdb.com/tt0071853/",
         "poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 569678,
             "bestRating": 10,
@@ -2908,7 +2818,7 @@
         "name": "Some Like It Hot",
         "url": "https://www.imdb.com/tt0053291/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 283234,
             "bestRating": 10,
@@ -2929,7 +2839,7 @@
         "name": "The Elephant Man",
         "url": "https://www.imdb.com/tt0080678/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 258151,
             "bestRating": 10,
@@ -3008,7 +2918,7 @@
         "name": "The Treasure of the Sierra Madre",
         "url": "https://www.imdb.com/tt0040897/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 132318,
             "bestRating": 10,
@@ -3049,7 +2959,7 @@
         "name": "All About Eve",
         "url": "https://www.imdb.com/tt0042192/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYmE1M2Y3NTYtYTI0Mi00N2JlLTkzMzItOTY1MTlhNWNkMDgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 138634,
             "bestRating": 10,
@@ -3062,12 +2972,6 @@
         ],
         "datePublished": "1950-10-27",
         "duration": "PT2H18M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -3134,7 +3038,7 @@
         "name": "Bacheha-Ye aseman",
         "url": "https://www.imdb.com/tt0118849/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 80602,
             "bestRating": 10,
@@ -3171,12 +3075,6 @@
         "duration": "PT2H6M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Babam ve Oglum",
         "url": "https://www.imdb.com/tt0476735/",
@@ -3200,7 +3098,7 @@
         "name": "Mad Max: Fury Road",
         "url": "https://www.imdb.com/tt1392190/",
         "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1084427,
             "bestRating": 10,
@@ -3261,7 +3159,7 @@
         "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
         "url": "https://www.imdb.com/tt0325980/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 1208879,
             "bestRating": 10,
@@ -3338,17 +3236,11 @@
         "duration": "PT1H29M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Help",
         "url": "https://www.imdb.com/tt1454029/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 492075,
             "bestRating": 10,
@@ -3363,23 +3255,11 @@
         "duration": "PT2H26M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Big Lebowski",
         "url": "https://www.imdb.com/tt0118715/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 859385,
             "bestRating": 10,
@@ -3438,7 +3318,7 @@
         "name": "The Terminator",
         "url": "https://www.imdb.com/tt0088247/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 922989,
             "bestRating": 10,
@@ -3479,7 +3359,7 @@
         "name": "Into the Wild",
         "url": "https://www.imdb.com/tt0758758/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 657470,
             "bestRating": 10,
@@ -3540,7 +3420,7 @@
         "name": "The Grand Budapest Hotel",
         "url": "https://www.imdb.com/tt2278388/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 885427,
             "bestRating": 10,
@@ -3601,7 +3481,7 @@
         "name": "Three Billboards Outside Ebbing, Missouri",
         "url": "https://www.imdb.com/tt5027774/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 554296,
             "bestRating": 10,
@@ -3622,7 +3502,7 @@
         "name": "Rocky",
         "url": "https://www.imdb.com/tt0075148/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 627673,
             "bestRating": 10,
@@ -3662,7 +3542,7 @@
         "name": "Trainspotting",
         "url": "https://www.imdb.com/tt0117951/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 724881,
             "bestRating": 10,
@@ -3675,18 +3555,6 @@
         ],
         "datePublished": "1996-08-09",
         "duration": "PT1H33M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -3714,19 +3582,19 @@
         "url": "https://www.imdb.com/tt22022452/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
         "rating": {
-            "ratingCount": null,
-            "bestRating": null,
-            "worstRating": null,
-            "ratingValue": null
+            "ratingCount": 0,
+            "bestRating": 0,
+            "worstRating": 0,
+            "ratingValue": 0
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Animation",
             "Adventure",
             "Comedy"
         ],
         "datePublished": "2024-06-14",
-        "duration": null
+        "duration": ""
     },
     {
         "type": "Movie",
@@ -3753,7 +3621,7 @@
         "name": "Platoon",
         "url": "https://www.imdb.com/tt0091763/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 438995,
             "bestRating": 10,
@@ -3773,7 +3641,7 @@
         "name": "Chinatown",
         "url": "https://www.imdb.com/tt0071315/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 349429,
             "bestRating": 10,
@@ -3794,7 +3662,7 @@
         "name": "Room",
         "url": "https://www.imdb.com/tt3170832/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 449628,
             "bestRating": 10,
@@ -3810,17 +3678,11 @@
         "duration": "PT1H58M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "How to Train Your Dragon",
         "url": "https://www.imdb.com/tt0892769/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 799074,
             "bestRating": 10,
@@ -3861,7 +3723,7 @@
         "name": "Before Sunrise",
         "url": "https://www.imdb.com/tt0112471/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 338794,
             "bestRating": 10,
@@ -3920,7 +3782,7 @@
         "name": "Lock, Stock and Two Smoking Barrels",
         "url": "https://www.imdb.com/tt0120735/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 615687,
             "bestRating": 10,
@@ -3937,17 +3799,11 @@
         "duration": "PT1H47M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Gran Torino",
         "url": "https://www.imdb.com/tt1205489/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 814241,
             "bestRating": 10,
@@ -4026,7 +3882,7 @@
         "name": "La haine",
         "url": "https://www.imdb.com/tt0113247/",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 196040,
             "bestRating": 10,
@@ -4046,7 +3902,7 @@
         "name": "Ben-Hur",
         "url": "https://www.imdb.com/tt0052618/",
         "poster": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 253384,
             "bestRating": 10,
@@ -4066,7 +3922,7 @@
         "name": "The Iron Giant",
         "url": "https://www.imdb.com/tt0129167/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 226967,
             "bestRating": 10,
@@ -4142,12 +3998,6 @@
         "duration": "PT2H2M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Rebecca",
         "url": "https://www.imdb.com/tt2235695/",
@@ -4191,7 +4041,7 @@
         "name": "On the Waterfront",
         "url": "https://www.imdb.com/tt0047296/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 164660,
             "bestRating": 10,
@@ -4212,7 +4062,7 @@
         "name": "Before Sunset",
         "url": "https://www.imdb.com/tt0381681/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 287473,
             "bestRating": 10,
@@ -4226,12 +4076,6 @@
         ],
         "datePublished": "2004-07-30",
         "duration": "PT1H20M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -4258,7 +4102,7 @@
         "name": "Amores perros",
         "url": "https://www.imdb.com/tt0245712/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 252671,
             "bestRating": 10,
@@ -4278,7 +4122,7 @@
         "name": "It Happened One Night",
         "url": "https://www.imdb.com/tt0025316/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 112132,
             "bestRating": 10,
@@ -4292,12 +4136,6 @@
         ],
         "datePublished": "1934-02-22",
         "duration": "PT1H45M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -4343,7 +4181,7 @@
         "name": "The Best Years of Our Lives",
         "url": "https://www.imdb.com/tt0036868/",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 70466,
             "bestRating": 10,
@@ -4360,17 +4198,11 @@
         "duration": "PT2H50M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "T\u00f4ky\u00f4 monogatari",
         "url": "https://www.imdb.com/tt0046438/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 68442,
             "bestRating": 10,
@@ -4389,7 +4221,7 @@
         "name": "Mary and Max.",
         "url": "https://www.imdb.com/tt0978762/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 186654,
             "bestRating": 10,
@@ -4410,7 +4242,7 @@
         "name": "Smultronst\u00e4llet",
         "url": "https://www.imdb.com/tt0050986/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 114841,
             "bestRating": 10,
@@ -4436,19 +4268,13 @@
             "worstRating": 1,
             "ratingValue": 7.7
         },
-        "contentRating": null,
+        "contentRating": "",
         "genre": [
             "Documentary"
         ],
-        "datePublished": null,
-        "keywords": null,
+        "datePublished": "",
+        "keywords": "",
         "duration": "PT1H57M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -4511,17 +4337,11 @@
         "duration": "PT1H39M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Incredibles",
         "url": "https://www.imdb.com/tt0317705/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 807391,
             "bestRating": 10,
@@ -4542,7 +4362,7 @@
         "name": "Dances with Wolves",
         "url": "https://www.imdb.com/tt0099348/",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_.jpg",
-        "description": null,
+        "description": "",
         "rating": {
             "ratingCount": 290156,
             "bestRating": 10,

@@ -19,12 +19,6 @@
         "duration": "PT1H36M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "12th Fail",
         "url": "https://www.imdb.com/tt23849204/",
@@ -105,12 +99,6 @@
         "duration": "PT2H50M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "A Clockwork Orange",
         "url": "https://www.imdb.com/tt0066921/",
@@ -148,12 +136,6 @@
         ],
         "datePublished": "2017-09-02",
         "duration": "PT2H25M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -296,12 +278,6 @@
         "duration": "PT2H29M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Bacheha-Ye aseman",
         "url": "https://www.imdb.com/tt0118849/",
@@ -321,12 +297,6 @@
         ],
         "datePublished": "1999-01-22",
         "duration": "PT1H29M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -386,12 +356,6 @@
         ],
         "datePublished": "2004-07-30",
         "duration": "PT1H20M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -491,12 +455,6 @@
         ],
         "datePublished": "1995-11-22",
         "duration": "PT2H58M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -680,12 +638,6 @@
         "duration": "PT2H36M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Die Hard",
         "url": "https://www.imdb.com/tt0095016/",
@@ -723,12 +675,6 @@
         ],
         "datePublished": "2012-12-25",
         "duration": "PT2H45M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -808,12 +754,6 @@
         ],
         "datePublished": "2010-05-21",
         "duration": "PT2H9M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -1156,12 +1096,6 @@
         "duration": "PT1H59M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Hotaru no haka",
         "url": "https://www.imdb.com/tt0095327/",
@@ -1330,10 +1264,10 @@
         "url": "https://www.imdb.com/tt22022452/",
         "poster": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
         "rating": {
-            "ratingCount": null,
-            "bestRating": null,
-            "worstRating": null,
-            "ratingValue": null
+            "ratingCount": 0,
+            "bestRating": 0,
+            "worstRating": 0,
+            "ratingValue": 0
         },
         "contentRating": null,
         "genre": [
@@ -1441,12 +1375,6 @@
         ],
         "datePublished": "2017-09-08",
         "duration": "PT2H15M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -1966,12 +1894,6 @@
         "duration": "PT2H2M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Nuovo Cinema Paradiso",
         "url": "https://www.imdb.com/tt0095765/",
@@ -2037,10 +1959,10 @@
         "url": "https://www.imdb.com/tt13544442/",
         "poster": "https://m.media-amazon.com/images/M/MV5BZGQ4MmY0ZTktZDBkMy00NzQ2LTg5YjktY2NiMDFjOGZmYWFmXkEyXkFqcGdeQXVyMTE5MTYyNzQ2._V1_.jpg",
         "rating": {
-            "ratingCount": null,
-            "bestRating": null,
-            "worstRating": null,
-            "ratingValue": null
+            "ratingCount": 0,
+            "bestRating": 0,
+            "worstRating": 0,
+            "ratingValue": 0
         },
         "contentRating": null,
         "genre": [
@@ -2050,12 +1972,6 @@
         "datePublished": "2019-09-01",
         "keywords": null,
         "duration": "PT3M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -2116,12 +2032,6 @@
         ],
         "datePublished": "1957-12-25",
         "duration": "PT1H28M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -2889,12 +2799,6 @@
         "duration": "PT2H11M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "Taare Zameen Par",
         "url": "https://www.imdb.com/tt0986264/",
@@ -3013,12 +2917,6 @@
         ],
         "datePublished": "1947-05-29",
         "duration": "PT2H50M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -3260,12 +3158,6 @@
         "duration": "PT1H39M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Help",
         "url": "https://www.imdb.com/tt1454029/",
@@ -3304,12 +3196,6 @@
         ],
         "datePublished": "2004-11-05",
         "duration": "PT1H55M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -3358,10 +3244,10 @@
         "poster": "https://m.media-amazon.com/images/M/MV5BNjM0M2FmMTUtODNhZC00NzVjLTgyNGMtZTkxZGVhMjEzM2NlXkEyXkFqcGdeQXVyNjI0MTg1MzU@._V1_.jpg",
         "description": null,
         "rating": {
-            "ratingCount": null,
-            "bestRating": null,
-            "worstRating": null,
-            "ratingValue": null
+            "ratingCount": 0,
+            "bestRating": 0,
+            "worstRating": 0,
+            "ratingValue": 0
         },
         "contentRating": null,
         "genre": [
@@ -3432,12 +3318,6 @@
         ],
         "datePublished": "2002-12-18",
         "duration": "PT2H59M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
@@ -3722,12 +3602,6 @@
         "duration": "PT1H43M"
     },
     {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
-    },
-    {
         "type": "Movie",
         "name": "The Wizard of Oz",
         "url": "https://www.imdb.com/tt0032138/",
@@ -3746,12 +3620,6 @@
         ],
         "datePublished": "1939-08-25",
         "duration": "PT1H42M"
-    },
-    {
-        "status": 404,
-        "message": "No Result Found!",
-        "result_count": 0,
-        "results": []
     },
     {
         "type": "Movie",
